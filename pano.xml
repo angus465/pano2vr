@@ -1,0 +1,1821 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1" apprev="17985" appversion="6.1.9">
+  <panorama id="node1">
+    <input levelingpitch="0" width="1344" levelbiashidpi="1.000" height="1344" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="162">
+      <start pan="-19.79" fov="265.73" projection="9" tilt="-90"/>
+      <flyin pan="160.72" fov="74.33" projection="4" tilt="1.86"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata nodeid="node1" copyright="" longitude="120.38961590" datetime="2025/4/6 上午 10:20" heading="162" title="入口" latitude="23.06412376" description="" author="" comment="" source="" customnodeid="" altitude="43.01" info="" tags="左鎮化石園區 360"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="1" enabled="1" width="180" background="1" textcolor="0x000000" height="20" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" textalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-214.77" skinid="ht_info" url="" title="吉祥物犀牛KOKO與金絲猴KIKI" target="" id="" description="臺南左鎮化石園區以吉祥物犀牛KOKO與金絲猴KIKI可愛魅力為號召，在1月23日大年初二推出「新春犀遊記-春聯同樂會DIY活動」，讓前來化石園區的大朋友小朋友們手作屬於自己春聯，也讓親子更深入認識化石館館藏，寓教於樂，用充滿知性活動，為新春假期揭開序幕！" tilt="1.18"/>
+      <hotspot pan="-198.91" skinid="Hotspot 1" url="{node2}" title="售票處" target="153.3/-3.8/70.0" id="Point01" description="" tilt="-2.87"/>
+    </hotspots>
+    <media>
+      <lensflare pan="-194.640" type="1" blinding="50.000" id="Lensflare01" alpha="80.000" tilt="43.090" color="0xffffff"/>
+      <sound level="1.000" url="media/skin_snd_Dinosaur - Neera Rescues the Orphans.mp3" keep="1" id="Dinosaur - Neera Rescues the Orphans" loop="-1" mode="0"/>
+    </media>
+    <transition enabled="1" softedge="0" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomfov="20" blendcolor="0x000000" zoomin="0" zoomout="0" zoomspeed="2"/>
+    <autorotate delay="2.00" nodefilter="" enabled="1" noderandom="1" returntohorizon="0.000" nodedelay="0.00" startloaded="0" useanimation="0" speed="0.100"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextprojections="0" lockedkeyboard="0" speedwheel="1" contextfullscreen="1" lockedwheel="0" invertcontrol="1" simulatemass="1" rubberband="0" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8" invertwheel="0"/>
+  </panorama>
+  <panorama id="node64">
+    <input levelingpitch="0" width="1344" levelbiashidpi="1.000" height="1344" leveltileurl="tiles/node64/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="171">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata nodeid="node64" copyright="" longitude="120.38961589" datetime="2025/4/6 上午 10:20" heading="171" title="入口" latitude="23.06413363" description="" author="" comment="" source="" customnodeid="" altitude="43.01" info="" tags="左鎮化石園區 360"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="1" enabled="1" width="180" background="1" textcolor="0x000000" height="20" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" textalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-201.28" skinid="Hotspot 1" url="{node2}" title="售票處" target="147.5/2.3/70.0" id="Point01" description="" tilt="-5.19"/>
+      <hotspot pan="-214.41" skinid="ht_info" url="" title="吉祥物犀牛KOKO與金絲猴KIKI" target="" id="Point02" description="臺南左鎮化石園區以吉祥物犀牛KOKO與金絲猴KIKI可愛魅力為號召，在1月23日大年初二推出「新春犀遊記-春聯同樂會DIY活動」，讓前來化石園區的大朋友小朋友們手作屬於自己春聯，也讓親子更深入認識化石館館藏，寓教於樂，用充滿知性活動，為新春假期揭開序幕！" tilt="1.69"/>
+    </hotspots>
+    <media>
+      <sound level="1.000" url="media/skin_snd_Dinosaur - Neera Rescues the Orphans.mp3" keep="1" id="Dinosaur - Neera Rescues the Orphans" loop="-1" mode="0"/>
+    </media>
+    <transition enabled="1" softedge="0" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomfov="20" blendcolor="0x000000" zoomin="0" zoomout="0" zoomspeed="2"/>
+    <autorotate delay="2.00" nodefilter="" enabled="1" noderandom="1" returntohorizon="0.000" nodedelay="0.00" startloaded="0" useanimation="0" speed="0.100"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextprojections="0" lockedkeyboard="0" speedwheel="1" contextfullscreen="1" lockedwheel="0" invertcontrol="1" simulatemass="1" rubberband="0" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8" invertwheel="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelingpitch="0" width="1344" levelbiashidpi="1.000" height="1344" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata nodeid="node2" copyright="" longitude="" datetime="2025/4/6 上午 10:24" heading="0" title="售票處" latitude="" description="" author="" comment="" source="" customnodeid="" altitude="42.44" info="" tags="左鎮化石園區 360"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="1" enabled="1" width="180" background="1" textcolor="0x000000" height="20" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" textalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-142.17" skinid="Hotspot 1" url="{node3}" title="自然史教育館" target="30.6/-16.9/70.0" id="Point02" description="" tilt="-9.27"/>
+      <hotspot pan="-297.42" skinid="ht_info" url="" title="票價" target="" id="Point03" description="全票           NT$100  &#xa;(一般參觀者適用之)&#xa;優惠票        NT$70    &#xa;(持有學生證在學學生、20人以上團體適用之。)&#xa;半票           NT$50   &#xa;(滿65歲以上長者、6歲以上未滿12歲之兒童。)&#xa;免費           NT$0     &#xa;1.持有設籍於本市左鎮區之身分證明文件。&#xa;2.未滿6歲之兒童。&#xa;3.持有身心障礙手冊，其本人與隨同1人。&#xa;4.持有縣市政府依志願服務法核發之志工榮譽卡。&#xa;5.持有交通部觀光局核發之導遊執業證人員。" tilt="1.8"/>
+      <hotspot pan="-31.76" skinid="Hotspot 2" url="{node64}" title="入口" target="-22.8/-1.6/70.0" id="Point01" description="" tilt="-8.44"/>
+    </hotspots>
+    <media>
+      <sound level="1.000" url="media/skin_snd_Dinosaur - Neera Rescues the Orphans.mp3" keep="1" id="Dinosaur - Neera Rescues the Orphans" loop="-1" mode="0"/>
+    </media>
+    <transition enabled="1" softedge="0" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomfov="20" blendcolor="0x000000" zoomin="0" zoomout="0" zoomspeed="2"/>
+    <autorotate delay="2.00" nodefilter="" enabled="1" noderandom="1" returntohorizon="0.000" nodedelay="0.00" startloaded="0" useanimation="0" speed="0.100"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextprojections="0" lockedkeyboard="0" speedwheel="1" contextfullscreen="1" lockedwheel="0" invertcontrol="1" simulatemass="1" rubberband="0" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8" invertwheel="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelingpitch="0" width="1344" levelbiashidpi="1.000" height="1344" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata nodeid="node3" copyright="" longitude="" datetime="2025/4/6 上午 10:25" heading="0" title="自然史教育館" latitude="" description="" author="" comment="" source="" customnodeid="" altitude="40.53" info="" tags="自然史教育館"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="1" enabled="1" width="180" background="1" textcolor="0x000000" height="20" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" textalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-140.72" skinid="Hotspot 1" url="{node2}" title="售票處" target="67.8/-18.3/70.0" id="Point01" description="" tilt="-15.59"/>
+      <hotspot pan="-274.77" skinid="Hotspot 1" url="{node4}" title="自然史教育館二樓" target="-97.5/-12.5/70.0" id="Point02" description="" tilt="12.05"/>
+      <hotspot pan="-258.33" skinid="Hotspot 1" url="{node11}" title="往故事館通道" target="-164.8/-7.0/70.0" id="Point03" description="" tilt="-14.77"/>
+      <hotspot pan="-345.59" skinid="ht_info" url="" title="服務台" target="" id="Point04" description="一、諮詢服務：諮詢各種化石園區的展示與活動。&#xa;二、憑證件借用嬰兒車、輪椅。&#xa;三、發送本園區簡介、活動簡章等出版品。&#xa;四、導覽設備借用管理。&#xa;1. 個人語音導覽機：50台，充電櫃2座。&#xa;2. 團體語音導覽機：1對多子母機，母機6台/子機150台，充電櫃3座。（團體導覽需事先預約）&#xa;3. 互動APP式：使用個人的手機讀取，不用借導覽機。ios/android兩種系統支援。&#xa;4. APP導覽系統規劃&#xa;" tilt="-17.66"/>
+      <hotspot pan="-167.26" skinid="ht_info" url="" title="寄物收納櫃" target="_blank" id="Point05" description="大置物櫃4格（46.5*83*37.5cm）;&#xa;中置物櫃10格（36*38.5*37.5cm）;&#xa;小置物櫃84格（28.5*40*37.5cm）。" tilt="-13.51"/>
+    </hotspots>
+    <media>
+      <video loop="0" startmutedmobile="0" id="Element01" ambientlevel="1.000" pansize="0.000" height="360" width="640" roty="18.000" clickmode="2" field="0.000" mode="5" fov="29.010" nodechangekeep="0" handcursor="1" rotz="0.000" tiltsize="10.000" stretch="1.090" level="1.000" rotx="-12.000" pan="-57.110" tilt="2.820">
+        <source url="media/1-1.mp4"/>
+      </video>
+      <sound level="1.000" url="media/skin_snd_Dinosaur - Neera Rescues the Orphans.mp3" keep="1" id="Dinosaur - Neera Rescues the Orphans" loop="-1" mode="0"/>
+    </media>
+    <transition enabled="1" softedge="0" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomfov="20" blendcolor="0x000000" zoomin="0" zoomout="0" zoomspeed="2"/>
+    <autorotate delay="2.00" nodefilter="" enabled="1" noderandom="1" returntohorizon="0.000" nodedelay="0.00" startloaded="0" useanimation="0" speed="0.100"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextprojections="0" lockedkeyboard="0" speedwheel="1" contextfullscreen="1" lockedwheel="0" invertcontrol="1" simulatemass="1" rubberband="0" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8" invertwheel="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelingpitch="0" width="1344" levelbiashidpi="1.000" height="1344" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata nodeid="node4" copyright="" longitude="" datetime="2025/4/6 上午 10:26" heading="0" title="自然史教育館二樓" latitude="" description="" author="" comment="" source="" customnodeid="" altitude="40.53" info="" tags="自然史教育館"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="1" enabled="1" width="180" background="1" textcolor="0x000000" height="20" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" textalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-272.83" skinid="Hotspot 1" url="{node3}" title="自然史教育館" target="-79.2/-12.4/70.0" id="Point01" description="" tilt="-22.46"/>
+      <hotspot pan="-336.06" skinid="Hotspot 1" url="{node6}" title="自然史教育館二樓外展" target="136.5/-13.7/70.0" id="Point02" description="" tilt="-13.81"/>
+      <hotspot pan="-36.29" skinid="Hotspot 1" url="{node7}" title="自然史教育館化石特展入口" target="-85.3/-20.0/70.0" id="Point03" description="" tilt="-23.22"/>
+      <hotspot pan="-132.16" skinid="ht_info" url="" title="2024「臺灣古生物新犀望」國際學術研討會&#xa;" target="" id="Point04" description="臺灣位於菲律賓海板塊和歐亞板塊的碰撞帶上，冰河時期海平面下降，臺灣海峽消失，與大陸相連，使得廣大動物群南遷至此。而隨著冰河時期結束，臺灣海峽重現，海峽隔斷了兩岸，動物逐漸消失，留下斷簡殘篇般的化石。臺南菜寮溪流域是臺灣主要的哺乳動物化石採集地之一，自日治時期起即有採集紀錄，開啟了近代臺灣哺乳類動物化石研究的歷史。現在就讓我們一起走進時光通道，一窺史前動物的奧秘。" tilt="6.04"/>
+    </hotspots>
+    <media>
+      <sound level="1.000" url="media/skin_snd_Dinosaur - Neera Rescues the Orphans.mp3" keep="1" id="Dinosaur - Neera Rescues the Orphans" loop="-1" mode="0"/>
+    </media>
+    <transition enabled="1" softedge="0" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomfov="20" blendcolor="0x000000" zoomin="0" zoomout="0" zoomspeed="2"/>
+    <autorotate delay="2.00" nodefilter="" enabled="1" noderandom="1" returntohorizon="0.000" nodedelay="0.00" startloaded="0" useanimation="0" speed="0.100"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextprojections="0" lockedkeyboard="0" speedwheel="1" contextfullscreen="1" lockedwheel="0" invertcontrol="1" simulatemass="1" rubberband="0" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8" invertwheel="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelingpitch="0" width="1344" levelbiashidpi="1.000" height="1344" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata nodeid="node6" copyright="" longitude="" datetime="2025/4/6 上午 10:28" heading="0" title="自然史教育館二樓外展" latitude="" description="" author="" comment="" source="" customnodeid="" altitude="41.38" info="" tags="自然史教育館"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="1" enabled="1" width="180" background="1" textcolor="0x000000" height="20" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" textalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-31.35" skinid="Hotspot 1" url="{node4}" title="自然史教育館二樓" target="-104.6/-7.9/70.0" id="Point01" description="" tilt="-4.59"/>
+      <hotspot pan="-14.68" skinid="Hotspot 1" url="{node7}" title="自然史教育館化石特展入口" target="-84.2/-13.7/70.0" id="Point02" description="" tilt="-2.95"/>
+      <hotspot pan="-256.25" skinid="ht_info" url="" title="" target="" id="Point03" description="以中生代及新生代的背景，探討兩生代中，最具代表性的生物：爬行類及哺乳類動物。" tilt="-17.62"/>
+    </hotspots>
+    <media>
+      <sound level="1.000" url="media/skin_snd_Dinosaur - Neera Rescues the Orphans.mp3" keep="1" id="Dinosaur - Neera Rescues the Orphans" loop="-1" mode="0"/>
+    </media>
+    <transition enabled="1" softedge="0" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomfov="20" blendcolor="0x000000" zoomin="0" zoomout="0" zoomspeed="2"/>
+    <autorotate delay="2.00" nodefilter="" enabled="1" noderandom="1" returntohorizon="0.000" nodedelay="0.00" startloaded="0" useanimation="0" speed="0.100"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextprojections="0" lockedkeyboard="0" speedwheel="1" contextfullscreen="1" lockedwheel="0" invertcontrol="1" simulatemass="1" rubberband="0" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8" invertwheel="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input levelingpitch="0" width="1344" levelbiashidpi="1.000" height="1344" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata nodeid="node7" copyright="" longitude="" datetime="2025/4/6 上午 10:31" heading="0" title="自然史教育館化石特展入口" latitude="" description="" author="" comment="" source="" customnodeid="" altitude="45.09" info="" tags="自然史教育館"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="1" enabled="1" width="180" background="1" textcolor="0x000000" height="20" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" textalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-268.19" skinid="Hotspot 1" url="{node6}" title="自然史教育館二樓外展" target="172.6/-9.0/70.0" id="Point01" description="" tilt="-15.62"/>
+      <hotspot pan="-354.06" skinid="Hotspot 1" url="{node8}" title="各哺乳類牙齒展櫃" target="-127.3/-11.2/70.0" id="Point02" description="" tilt="-20.27"/>
+    </hotspots>
+    <media>
+      <sound level="1.000" url="media/skin_snd_Dinosaur - Neera Rescues the Orphans.mp3" keep="1" id="Dinosaur - Neera Rescues the Orphans" loop="-1" mode="0"/>
+    </media>
+    <transition enabled="1" softedge="0" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomfov="20" blendcolor="0x000000" zoomin="0" zoomout="0" zoomspeed="2"/>
+    <autorotate delay="2.00" nodefilter="" enabled="1" noderandom="1" returntohorizon="0.000" nodedelay="0.00" startloaded="0" useanimation="0" speed="0.100"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextprojections="0" lockedkeyboard="0" speedwheel="1" contextfullscreen="1" lockedwheel="0" invertcontrol="1" simulatemass="1" rubberband="0" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8" invertwheel="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input levelingpitch="0" width="1344" levelbiashidpi="1.000" height="1344" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata nodeid="node8" copyright="" longitude="" datetime="2025/4/6 上午 10:32" heading="0" title="各哺乳類牙齒展櫃" latitude="" description="" author="" comment="" source="" customnodeid="" altitude="45.09" info="" tags="自然史教育館"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="1" enabled="1" width="180" background="1" textcolor="0x000000" height="20" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" textalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-55.54" skinid="Hotspot 1" url="{node7}" title="自然史教育館化石特展入口" target="-177.4/-9.2/70.0" id="Point01" description="" tilt="-20.5"/>
+      <hotspot pan="-263.38" skinid="Hotspot 1" url="{node10}" title="大象化石展櫃" target="-171.3/-9.2/70.0" id="Point02" description="" tilt="-22.08"/>
+      <hotspot pan="-16.48" skinid="Hotspot 1" url="{node9}" title="鹿、犀牛、虎化石展櫃" target="132.9/-13.2/70.0" id="Point03" description="" tilt="-21.14"/>
+      <hotspot pan="-120.89" skinid="ht_image" url="images/1-1-Photoroom.png" title="" target="" id="Point04" description="" tilt="-19.2"/>
+    </hotspots>
+    <media>
+      <sound level="1.000" url="media/skin_snd_Dinosaur - Neera Rescues the Orphans.mp3" keep="1" id="Dinosaur - Neera Rescues the Orphans" loop="-1" mode="0"/>
+    </media>
+    <transition enabled="1" softedge="0" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomfov="20" blendcolor="0x000000" zoomin="0" zoomout="0" zoomspeed="2"/>
+    <autorotate delay="2.00" nodefilter="" enabled="1" noderandom="1" returntohorizon="0.000" nodedelay="0.00" startloaded="0" useanimation="0" speed="0.100"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextprojections="0" lockedkeyboard="0" speedwheel="1" contextfullscreen="1" lockedwheel="0" invertcontrol="1" simulatemass="1" rubberband="0" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8" invertwheel="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input levelingpitch="0" width="1344" levelbiashidpi="1.000" height="1344" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata nodeid="node9" copyright="" longitude="" datetime="2025/4/6 上午 10:32" heading="0" title="鹿、犀牛、虎化石展櫃" latitude="" description="" author="" comment="" source="" customnodeid="" altitude="45.09" info="" tags="自然史教育館"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="1" enabled="1" width="180" background="1" textcolor="0x000000" height="20" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" textalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-290.2" skinid="Hotspot 1" url="{node7}" title="自然史教育館化石特展入口" target="116.9/-11.4/70.0" id="Point01" description="" tilt="-2.1"/>
+      <hotspot pan="-329.68" skinid="Hotspot 1" url="{node8}" title="各哺乳類牙齒展櫃" target="-135.7/-8.8/70.0" id="Point02" description="" tilt="-15.68"/>
+      <hotspot pan="-77.7" skinid="Hotspot 1" url="{node10}" title="大象化石展櫃" target="-171.8/-18.0/70.0" id="Point03" description="" tilt="-17.46"/>
+      <hotspot pan="-258.28" skinid="ht_image" url="images/1-2-Photoroom.png" title="" target="" id="Point04" description="" tilt="-21.24"/>
+      <hotspot pan="-200.29" skinid="ht_image" url="images/1-3-Photoroom.png" title="" target="" id="Point05" description="" tilt="-22.26"/>
+      <hotspot pan="-286.94" skinid="ht_image" url="images/1-4-Photoroom.png" title="" target="" id="Point06" description="" tilt="-12.22"/>
+    </hotspots>
+    <media>
+      <sound level="1.000" url="media/skin_snd_Dinosaur - Neera Rescues the Orphans.mp3" keep="1" id="Dinosaur - Neera Rescues the Orphans" loop="-1" mode="0"/>
+    </media>
+    <transition enabled="1" softedge="0" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomfov="20" blendcolor="0x000000" zoomin="0" zoomout="0" zoomspeed="2"/>
+    <autorotate delay="2.00" nodefilter="" enabled="1" noderandom="1" returntohorizon="0.000" nodedelay="0.00" startloaded="0" useanimation="0" speed="0.100"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextprojections="0" lockedkeyboard="0" speedwheel="1" contextfullscreen="1" lockedwheel="0" invertcontrol="1" simulatemass="1" rubberband="0" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8" invertwheel="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input levelingpitch="0" width="1344" levelbiashidpi="1.000" height="1344" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata nodeid="node10" copyright="" longitude="" datetime="2025/4/6 上午 10:33" heading="0" title="大象化石展櫃" latitude="" description="" author="" comment="" source="" customnodeid="" altitude="45.09" info="" tags="自然史教育館"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="1" enabled="1" width="180" background="1" textcolor="0x000000" height="20" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" textalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-6.96" skinid="Hotspot 1" url="{node7}" title="自然史教育館化石特展入口" target="" id="Point03" description="" tilt="-4.9"/>
+      <hotspot pan="-35.87" skinid="Hotspot 1" url="{node8}" title="各哺乳類牙齒展櫃" target="-122.0/-21.3/70.0" id="Point02" description="" tilt="-12.88"/>
+      <hotspot pan="-333.34" skinid="Hotspot 1" url="{node9}" title="鹿、犀牛、虎化石展櫃" target="134.8/-8.6/70.0" id="Point01" description="" tilt="-4.64"/>
+      <hotspot pan="-121.54" skinid="ht_image" url="images/1-5-Photoroom.png" title="" target="" id="Point04" description="" tilt="-33.25"/>
+    </hotspots>
+    <media>
+      <sound level="1.000" url="media/skin_snd_Dinosaur - Neera Rescues the Orphans.mp3" keep="1" id="Dinosaur - Neera Rescues the Orphans" loop="-1" mode="0"/>
+    </media>
+    <transition enabled="1" softedge="0" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomfov="20" blendcolor="0x000000" zoomin="0" zoomout="0" zoomspeed="2"/>
+    <autorotate delay="2.00" nodefilter="" enabled="1" noderandom="1" returntohorizon="0.000" nodedelay="0.00" startloaded="0" useanimation="0" speed="0.100"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextprojections="0" lockedkeyboard="0" speedwheel="1" contextfullscreen="1" lockedwheel="0" invertcontrol="1" simulatemass="1" rubberband="0" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8" invertwheel="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input levelingpitch="0" width="1344" levelbiashidpi="1.000" height="1344" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata nodeid="node11" copyright="" longitude="" datetime="2025/4/6 上午 10:34" heading="0" title="往故事館通道" latitude="" description="" author="" comment="" source="" customnodeid="" altitude="42.57" info="" tags="自然史教育館"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="1" enabled="1" width="180" background="1" textcolor="0x000000" height="20" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" textalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-10.62" skinid="Hotspot 1" url="{node3}" title="自然史教育館" target="-121.4/-20.6/70.0" id="Point01" description="" tilt="-4.19"/>
+      <hotspot pan="-188.37" skinid="Hotspot 1" url="{node12}" title="往故事館通道" target="109.2/-8.8/70.0" id="Point02" description="" tilt="-5.88"/>
+    </hotspots>
+    <media>
+      <sound level="1.000" url="media/skin_snd_Dinosaur - Neera Rescues the Orphans.mp3" keep="1" id="Dinosaur - Neera Rescues the Orphans" loop="-1" mode="0"/>
+    </media>
+    <transition enabled="1" softedge="0" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomfov="20" blendcolor="0x000000" zoomin="0" zoomout="0" zoomspeed="2"/>
+    <autorotate delay="2.00" nodefilter="" enabled="1" noderandom="1" returntohorizon="0.000" nodedelay="0.00" startloaded="0" useanimation="0" speed="0.100"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextprojections="0" lockedkeyboard="0" speedwheel="1" contextfullscreen="1" lockedwheel="0" invertcontrol="1" simulatemass="1" rubberband="0" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8" invertwheel="0"/>
+  </panorama>
+  <panorama id="node12">
+    <input levelingpitch="0" width="1344" levelbiashidpi="1.000" height="1344" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata nodeid="node12" copyright="" longitude="" datetime="2025/4/6 上午 10:35" heading="0" title="往故事館通道" latitude="" description="" author="" comment="" source="" customnodeid="" altitude="41.24" info="" tags="左鎮化石園區 360"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="1" enabled="1" width="180" background="1" textcolor="0x000000" height="20" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" textalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-67.16" skinid="Hotspot 1" url="{node11}" title="往故事館通道" target="-6.1/-6.6/70.0" id="Point01" description="" tilt="-0.65"/>
+      <hotspot pan="-320.89" skinid="Hotspot 1" url="{node13}" title="故事館入口" target="174.2/-8.5/68.3" id="Point02" description="" tilt="-10.12"/>
+    </hotspots>
+    <media>
+      <sound level="1.000" url="media/skin_snd_Dinosaur - Neera Rescues the Orphans.mp3" keep="1" id="Dinosaur - Neera Rescues the Orphans" loop="-1" mode="0"/>
+    </media>
+    <transition enabled="1" softedge="0" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomfov="20" blendcolor="0x000000" zoomin="0" zoomout="0" zoomspeed="2"/>
+    <autorotate delay="2.00" nodefilter="" enabled="1" noderandom="1" returntohorizon="0.000" nodedelay="0.00" startloaded="0" useanimation="0" speed="0.100"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextprojections="0" lockedkeyboard="0" speedwheel="1" contextfullscreen="1" lockedwheel="0" invertcontrol="1" simulatemass="1" rubberband="0" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8" invertwheel="0"/>
+  </panorama>
+  <panorama id="node13">
+    <input levelingpitch="0" width="1344" levelbiashidpi="1.000" height="1344" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata nodeid="node13" copyright="" longitude="" datetime="2025/4/6 上午 10:35" heading="0" title="故事館入口" latitude="" description="" author="" comment="" source="" customnodeid="" altitude="41.24" info="" tags="故事館"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="1" enabled="1" width="180" background="1" textcolor="0x000000" height="20" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" textalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-358.57" skinid="Hotspot 1" url="{node12}" title="往故事館通道" target="165.2/0.1/70.0" id="Point01" description="" tilt="-2.91"/>
+      <hotspot pan="-86.77" skinid="Hotspot 1" url="{node14}" title="遇見左鎮人" target="-21.9/-1.4/70.0" id="Point02" description="" tilt="-11.89"/>
+    </hotspots>
+    <media>
+      <sound level="1.000" url="media/skin_snd_Dinosaur - Neera Rescues the Orphans.mp3" keep="1" id="Dinosaur - Neera Rescues the Orphans" loop="-1" mode="0"/>
+    </media>
+    <transition enabled="1" softedge="0" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomfov="20" blendcolor="0x000000" zoomin="0" zoomout="0" zoomspeed="2"/>
+    <autorotate delay="2.00" nodefilter="" enabled="1" noderandom="1" returntohorizon="0.000" nodedelay="0.00" startloaded="0" useanimation="0" speed="0.100"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextprojections="0" lockedkeyboard="0" speedwheel="1" contextfullscreen="1" lockedwheel="0" invertcontrol="1" simulatemass="1" rubberband="0" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8" invertwheel="0"/>
+  </panorama>
+  <panorama id="node14">
+    <input levelingpitch="0" width="1344" levelbiashidpi="1.000" height="1344" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata nodeid="node14" copyright="" longitude="" datetime="2025/4/6 上午 10:36" heading="0" title="遇見左鎮人" latitude="" description="" author="" comment="" source="" customnodeid="" altitude="40.78" info="" tags="故事館"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="1" enabled="1" width="180" background="1" textcolor="0x000000" height="20" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" textalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-62.06" skinid="Hotspot 1" url="{node13}" title="故事館入口" target="-128.0/-3.3/70.0" id="Point01" description="" tilt="-14.7"/>
+      <hotspot pan="-274.65" skinid="Hotspot 1" url="{node15}" title="菜寮化石館歴史淵源" target="-107.6/-2.9/62.6" id="Point02" description="" tilt="-6.96"/>
+      <hotspot pan="-247.31" skinid="ht_image" url="images/2-1-Photoroom.png" title="" target="" id="Point03" description="" tilt="-0.64"/>
+      <hotspot pan="-171.26" skinid="ht_image" url="images/2-1-1-Photoroom.png" title="" target="" id="Point04" description="" tilt="9.46"/>
+      <hotspot pan="-312.33" skinid="ht_image" url="images/2-1-2-Photoroom.png" title="" target="" id="Point05" description="" tilt="17.97"/>
+    </hotspots>
+    <media>
+      <video loop="0" startmutedmobile="0" id="Element01" ambientlevel="1.000" pansize="10.000" height="720" width="1280" roty="5.000" clickmode="2" field="10.000" mode="5" fov="21.200" nodechangekeep="0" handcursor="1" rotz="-1.000" tiltsize="0.000" stretch="1.010" level="1.000" rotx="-2.000" pan="-230.930" tilt="-1.690">
+        <source url="media/2-1.mp4"/>
+      </video>
+      <sound level="1.000" url="media/skin_snd_Dinosaur - Neera Rescues the Orphans.mp3" keep="1" id="Dinosaur - Neera Rescues the Orphans" loop="-1" mode="0"/>
+    </media>
+    <transition enabled="1" softedge="0" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomfov="20" blendcolor="0x000000" zoomin="0" zoomout="0" zoomspeed="2"/>
+    <autorotate delay="2.00" nodefilter="" enabled="1" noderandom="1" returntohorizon="0.000" nodedelay="0.00" startloaded="0" useanimation="0" speed="0.100"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextprojections="0" lockedkeyboard="0" speedwheel="1" contextfullscreen="1" lockedwheel="0" invertcontrol="1" simulatemass="1" rubberband="0" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8" invertwheel="0"/>
+  </panorama>
+  <panorama id="node15">
+    <input levelingpitch="0" width="1344" levelbiashidpi="1.000" height="1344" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata nodeid="node15" copyright="" longitude="" datetime="2025/4/6 上午 10:37" heading="0" title="菜寮化石館歴史淵源" latitude="" description="" author="" comment="" source="" customnodeid="" altitude="40.78" info="" tags="故事館"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="1" enabled="1" width="180" background="1" textcolor="0x000000" height="20" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" textalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-70.64" skinid="Hotspot 1" url="{node14}" title="遇見左鎮人" target="-165.6/-3.8/70.0" id="Point01" description="" tilt="-7.52"/>
+      <hotspot pan="-272.93" skinid="Hotspot 1" url="{node16}" title="左鎮西拉雅文化" target="126.5/-3.9/70.0" id="Point02" description="" tilt="-11.59"/>
+    </hotspots>
+    <media>
+      <sound level="1.000" url="media/skin_snd_Dinosaur - Neera Rescues the Orphans.mp3" keep="1" id="Dinosaur - Neera Rescues the Orphans" loop="-1" mode="0"/>
+    </media>
+    <transition enabled="1" softedge="0" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomfov="20" blendcolor="0x000000" zoomin="0" zoomout="0" zoomspeed="2"/>
+    <autorotate delay="2.00" nodefilter="" enabled="1" noderandom="1" returntohorizon="0.000" nodedelay="0.00" startloaded="0" useanimation="0" speed="0.100"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextprojections="0" lockedkeyboard="0" speedwheel="1" contextfullscreen="1" lockedwheel="0" invertcontrol="1" simulatemass="1" rubberband="0" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8" invertwheel="0"/>
+  </panorama>
+  <panorama id="node16">
+    <input levelingpitch="0" width="1344" levelbiashidpi="1.000" height="1344" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata nodeid="node16" copyright="" longitude="" datetime="2025/4/6 上午 10:38" heading="0" title="左鎮西拉雅文化" latitude="" description="" author="" comment="" source="" customnodeid="" altitude="40.78" info="" tags="故事館"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="1" enabled="1" width="180" background="1" textcolor="0x000000" height="20" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" textalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-106.29" skinid="Hotspot 1" url="{node15}" title="菜寮化石館歴史淵源" target="-150.2/-11.4/70.0" id="Point01" description="" tilt="-13.82"/>
+      <hotspot pan="-331.11" skinid="Hotspot 1" url="{node17}" title="古早文物" target="-20.3/-3.8/70.0" id="Point02" description="" tilt="-6.61"/>
+      <hotspot pan="-200.13" skinid="ht_image" url="images/2-3-Photoroom.png" title="" target="" id="Point03" description="" tilt="1.07"/>
+    </hotspots>
+    <media>
+      <video loop="0" startmutedmobile="0" id="Element01" ambientlevel="1.000" pansize="10.000" height="720" width="1280" roty="14.000" clickmode="2" field="90.000" mode="5" fov="63.040" nodechangekeep="0" handcursor="1" rotz="0.000" tiltsize="10.000" stretch="1.000" level="1.000" rotx="5.000" pan="-49.190" tilt="5.310">
+        <source url="media/2-3.mp4"/>
+      </video>
+      <sound level="1.000" url="media/skin_snd_Dinosaur - Neera Rescues the Orphans.mp3" keep="1" id="Dinosaur - Neera Rescues the Orphans" loop="-1" mode="0"/>
+    </media>
+    <transition enabled="1" softedge="0" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomfov="20" blendcolor="0x000000" zoomin="0" zoomout="0" zoomspeed="2"/>
+    <autorotate delay="2.00" nodefilter="" enabled="1" noderandom="1" returntohorizon="0.000" nodedelay="0.00" startloaded="0" useanimation="0" speed="0.100"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextprojections="0" lockedkeyboard="0" speedwheel="1" contextfullscreen="1" lockedwheel="0" invertcontrol="1" simulatemass="1" rubberband="0" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8" invertwheel="0"/>
+  </panorama>
+  <panorama id="node17">
+    <input levelingpitch="0" width="1344" levelbiashidpi="1.000" height="1344" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata nodeid="node17" copyright="" longitude="" datetime="2025/4/6 上午 10:39" heading="0" title="古早文物" latitude="" description="" author="" comment="" source="" customnodeid="" altitude="40.78" info="" tags="故事館"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="1" enabled="1" width="180" background="1" textcolor="0x000000" height="20" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" textalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-213.87" skinid="Hotspot 1" url="{node16}" title="左鎮西拉雅文化" target="-158.1/-9.2/70.0" id="Point01" description="" tilt="-5.4"/>
+      <hotspot pan="-172.42" skinid="Hotspot 1" url="{node18}" title="樓梯往故事館二樓" target="-142.7/-27.9/70.0" id="Point02" description="" tilt="-15.7"/>
+    </hotspots>
+    <media>
+      <video loop="0" startmutedmobile="0" id="Element01" ambientlevel="1.000" pansize="10.000" height="720" width="1280" roty="-12.000" clickmode="2" field="90.000" mode="3" fov="71.370" nodechangekeep="0" handcursor="1" rotz="9.000" tiltsize="10.000" stretch="1.000" level="1.000" rotx="0.000" pan="-51.480" tilt="13.430">
+        <source url="media/2-4.mp4"/>
+      </video>
+      <sound level="1.000" url="media/skin_snd_Dinosaur - Neera Rescues the Orphans.mp3" keep="1" id="Dinosaur - Neera Rescues the Orphans" loop="-1" mode="0"/>
+    </media>
+    <transition enabled="1" softedge="0" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomfov="20" blendcolor="0x000000" zoomin="0" zoomout="0" zoomspeed="2"/>
+    <autorotate delay="2.00" nodefilter="" enabled="1" noderandom="1" returntohorizon="0.000" nodedelay="0.00" startloaded="0" useanimation="0" speed="0.100"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextprojections="0" lockedkeyboard="0" speedwheel="1" contextfullscreen="1" lockedwheel="0" invertcontrol="1" simulatemass="1" rubberband="0" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8" invertwheel="0"/>
+  </panorama>
+  <panorama id="node18">
+    <input levelingpitch="0" width="1344" levelbiashidpi="1.000" height="1344" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata nodeid="node18" copyright="" longitude="" datetime="2025/4/6 上午 10:40" heading="0" title="樓梯往故事館二樓" latitude="" description="" author="" comment="" source="" customnodeid="" altitude="40.78" info="" tags="故事館"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="1" enabled="1" width="180" background="1" textcolor="0x000000" height="20" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" textalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-140.17" skinid="Hotspot 1" url="{node19}" title="故事館二樓化石爺爺說故事" target="-16.9/-31.6/70.0" id="Point01" description="" tilt="12.78"/>
+      <hotspot pan="-318.31" skinid="Hotspot 1" url="{node17}" title="古早文物" target="" id="Point02" description="" tilt="-24"/>
+      <hotspot pan="-29.63" skinid="ht_image" url="images/2-4-Photoroom.png" title="" target="" id="Point03" description="" tilt="-7.38"/>
+    </hotspots>
+    <media>
+      <sound level="1.000" url="media/skin_snd_Dinosaur - Neera Rescues the Orphans.mp3" keep="1" id="Dinosaur - Neera Rescues the Orphans" loop="-1" mode="0"/>
+    </media>
+    <transition enabled="1" softedge="0" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomfov="20" blendcolor="0x000000" zoomin="0" zoomout="0" zoomspeed="2"/>
+    <autorotate delay="2.00" nodefilter="" enabled="1" noderandom="1" returntohorizon="0.000" nodedelay="0.00" startloaded="0" useanimation="0" speed="0.100"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextprojections="0" lockedkeyboard="0" speedwheel="1" contextfullscreen="1" lockedwheel="0" invertcontrol="1" simulatemass="1" rubberband="0" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8" invertwheel="0"/>
+  </panorama>
+  <panorama id="node19">
+    <input levelingpitch="0" width="1344" levelbiashidpi="1.000" height="1344" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata nodeid="node19" copyright="" longitude="" datetime="2025/4/6 上午 10:40" heading="0" title="故事館二樓化石爺爺說故事" latitude="" description="" author="" comment="" source="" customnodeid="" altitude="42.83" info="" tags="故事館"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="1" enabled="1" width="180" background="1" textcolor="0x000000" height="20" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" textalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-42.48" skinid="Hotspot 1" url="{node18}" title="樓梯往故事館二樓" target="-172.9/-3.3/70.0" id="Point01" description="" tilt="-30.41"/>
+      <hotspot pan="-106.24" skinid="Hotspot 1" url="{node20}" title="新港文書" target="-165.1/-11.0/70.0" id="Point02" description="" tilt="-8.71"/>
+      <hotspot pan="-162.67" skinid="ht_image" url="images/2-5.jpg" title="" target="" id="Point03" description="" tilt="-2.48"/>
+      <hotspot pan="-299.07" skinid="Hotspot 1" url="{node23}" title="往生命演化館通道" target="" id="Point04" description="" tilt="-36.14"/>
+    </hotspots>
+    <media>
+      <video loop="1" startmutedmobile="0" id="Element01" ambientlevel="0.000" pansize="10.000" height="720" width="1280" roty="0.000" clickmode="0" field="90.000" mode="3" fov="27.177" nodechangekeep="0" handcursor="0" rotz="0.000" tiltsize="10.000" stretch="1.000" level="1.000" rotx="0.000" pan="-212.220" tilt="2.020">
+        <source url="media/2-5.mp4"/>
+      </video>
+      <sound level="1.000" url="media/skin_snd_Dinosaur - Neera Rescues the Orphans.mp3" keep="1" id="Dinosaur - Neera Rescues the Orphans" loop="-1" mode="0"/>
+    </media>
+    <transition enabled="1" softedge="0" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomfov="20" blendcolor="0x000000" zoomin="0" zoomout="0" zoomspeed="2"/>
+    <autorotate delay="2.00" nodefilter="" enabled="1" noderandom="1" returntohorizon="0.000" nodedelay="0.00" startloaded="0" useanimation="0" speed="0.100"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextprojections="0" lockedkeyboard="0" speedwheel="1" contextfullscreen="1" lockedwheel="0" invertcontrol="1" simulatemass="1" rubberband="0" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8" invertwheel="0"/>
+  </panorama>
+  <panorama id="node20">
+    <input levelingpitch="0" width="1344" levelbiashidpi="1.000" height="1344" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata nodeid="node20" copyright="" longitude="" datetime="2025/4/6 上午 10:41" heading="0" title="新港文書" latitude="" description="" author="" comment="" source="" customnodeid="" altitude="43.56" info="" tags="故事館"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="1" enabled="1" width="180" background="1" textcolor="0x000000" height="20" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" textalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-317.88" skinid="Hotspot 1" url="{node19}" title="故事館二樓化石爺爺說故事" target="155.3/-11.9/70.0" id="Point01" description="" tilt="-8.65"/>
+      <hotspot pan="-63.03" skinid="Hotspot 1" url="{node21}" title="解不開的淵源: 光榮國民小學" target="-91.4/-19.4/70.0" id="Point02" description="" tilt="-7.92"/>
+      <hotspot pan="-17.54" skinid="ht_image" url="images/2-6-Photoroom.png" title="" target="" id="Point03" description="" tilt="-0.47"/>
+    </hotspots>
+    <media>
+      <video loop="0" startmutedmobile="0" id="Element01" ambientlevel="1.000" pansize="10.000" height="720" width="1280" roty="0.000" clickmode="0" field="90.000" mode="3" fov="41.624" nodechangekeep="0" handcursor="0" rotz="0.000" tiltsize="10.000" stretch="1.000" level="1.000" rotx="0.000" pan="-346.330" tilt="2.540">
+        <source url="media/2-6.mp4"/>
+      </video>
+      <sound level="1.000" url="media/skin_snd_Dinosaur - Neera Rescues the Orphans.mp3" keep="1" id="Dinosaur - Neera Rescues the Orphans" loop="-1" mode="0"/>
+    </media>
+    <transition enabled="1" softedge="0" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomfov="20" blendcolor="0x000000" zoomin="0" zoomout="0" zoomspeed="2"/>
+    <autorotate delay="2.00" nodefilter="" enabled="1" noderandom="1" returntohorizon="0.000" nodedelay="0.00" startloaded="0" useanimation="0" speed="0.100"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextprojections="0" lockedkeyboard="0" speedwheel="1" contextfullscreen="1" lockedwheel="0" invertcontrol="1" simulatemass="1" rubberband="0" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8" invertwheel="0"/>
+  </panorama>
+  <panorama id="node21">
+    <input levelingpitch="0" width="1344" levelbiashidpi="1.000" height="1344" leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata nodeid="node21" copyright="" longitude="" datetime="2025/4/6 上午 10:42" heading="0" title="解不開的淵源: 光榮國民小學" latitude="" description="" author="" comment="" source="" customnodeid="" altitude="42.57" info="" tags="故事館"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="1" enabled="1" width="180" background="1" textcolor="0x000000" height="20" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" textalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-273.12" skinid="Hotspot 1" url="{node20}" title="新港文書" target="106.9/-5.2/70.0" id="Point01" description="" tilt="-4.58"/>
+      <hotspot pan="0.57" skinid="Hotspot 1" url="{node22}" title="故事館簡介動畫" target="-37.2/-9.9/70.0" id="Point02" description="" tilt="-3.02"/>
+    </hotspots>
+    <media>
+      <sound level="1.000" url="media/skin_snd_Dinosaur - Neera Rescues the Orphans.mp3" keep="1" id="Dinosaur - Neera Rescues the Orphans" loop="-1" mode="0"/>
+    </media>
+    <transition enabled="1" softedge="0" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomfov="20" blendcolor="0x000000" zoomin="0" zoomout="0" zoomspeed="2"/>
+    <autorotate delay="2.00" nodefilter="" enabled="1" noderandom="1" returntohorizon="0.000" nodedelay="0.00" startloaded="0" useanimation="0" speed="0.100"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextprojections="0" lockedkeyboard="0" speedwheel="1" contextfullscreen="1" lockedwheel="0" invertcontrol="1" simulatemass="1" rubberband="0" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8" invertwheel="0"/>
+  </panorama>
+  <panorama id="node22">
+    <input levelingpitch="0" width="1344" levelbiashidpi="1.000" height="1344" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata nodeid="node22" copyright="" longitude="" datetime="2025/4/6 上午 10:42" heading="0" title="故事館簡介動畫" latitude="" description="" author="" comment="" source="" customnodeid="" altitude="43.56" info="" tags="故事館"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="1" enabled="1" width="180" background="1" textcolor="0x000000" height="20" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" textalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-163.77" skinid="Hotspot 1" url="{node21}" title="解不開的淵源: 光榮國民小學" target="-126.9/-22.6/70.0" id="Point01" description="" tilt="-3.77"/>
+      <hotspot pan="-265.33" skinid="Hotspot 1" url="{node23}" title="往生命演化館通道" target="90.2/-12.6/70.0" id="Point02" description="" tilt="-8.24"/>
+    </hotspots>
+    <media>
+      <video loop="0" startmutedmobile="0" id="Element01" ambientlevel="1.000" pansize="9.000" height="360" width="480" roty="37.000" clickmode="2" field="89.000" mode="3" fov="51.580" nodechangekeep="0" handcursor="1" rotz="6.000" tiltsize="10.000" stretch="1.180" level="1.000" rotx="-5.000" pan="24.500" tilt="-5.890">
+        <source url="media/videoplayback (2).mp4"/>
+      </video>
+      <sound level="1.000" url="media/skin_snd_Dinosaur - Neera Rescues the Orphans.mp3" keep="1" id="Dinosaur - Neera Rescues the Orphans" loop="-1" mode="0"/>
+    </media>
+    <transition enabled="1" softedge="0" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomfov="20" blendcolor="0x000000" zoomin="0" zoomout="0" zoomspeed="2"/>
+    <autorotate delay="2.00" nodefilter="" enabled="1" noderandom="1" returntohorizon="0.000" nodedelay="0.00" startloaded="0" useanimation="0" speed="0.100"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextprojections="0" lockedkeyboard="0" speedwheel="1" contextfullscreen="1" lockedwheel="0" invertcontrol="1" simulatemass="1" rubberband="0" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8" invertwheel="0"/>
+  </panorama>
+  <panorama id="node23">
+    <input levelingpitch="0" width="1344" levelbiashidpi="1.000" height="1344" leveltileurl="tiles/node23/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata nodeid="node23" copyright="" longitude="" datetime="2025/4/6 上午 10:44" heading="0" title="往生命演化館通道" latitude="" description="" author="" comment="" source="" customnodeid="" altitude="43.56" info="" tags="故事館"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="1" enabled="1" width="180" background="1" textcolor="0x000000" height="20" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" textalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-84.18" skinid="Hotspot 1" url="{node22}" title="故事館簡介動畫" target="-108.0/-8.2/70.0" id="Point01" description="" tilt="-8.53"/>
+      <hotspot pan="-352.94" skinid="Hotspot 1" url="{node24}" title="往生命演化館通道" target="-141.5/-17.4/70.0" id="Point02" description="" tilt="-8.84"/>
+      <hotspot pan="-204.56" skinid="Hotspot 1" url="{node19}" title="故事館二樓化石爺爺說故事" target="" id="Point03" description="" tilt="-28.68"/>
+    </hotspots>
+    <media>
+      <sound level="1.000" url="media/skin_snd_Dinosaur - Neera Rescues the Orphans.mp3" keep="1" id="Dinosaur - Neera Rescues the Orphans" loop="-1" mode="0"/>
+    </media>
+    <transition enabled="1" softedge="0" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomfov="20" blendcolor="0x000000" zoomin="0" zoomout="0" zoomspeed="2"/>
+    <autorotate delay="2.00" nodefilter="" enabled="1" noderandom="1" returntohorizon="0.000" nodedelay="0.00" startloaded="0" useanimation="0" speed="0.100"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextprojections="0" lockedkeyboard="0" speedwheel="1" contextfullscreen="1" lockedwheel="0" invertcontrol="1" simulatemass="1" rubberband="0" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8" invertwheel="0"/>
+  </panorama>
+  <panorama id="node24">
+    <input levelingpitch="0" width="1344" levelbiashidpi="1.000" height="1344" leveltileurl="tiles/node24/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata nodeid="node24" copyright="" longitude="" datetime="2025/4/6 上午 10:44" heading="0" title="往生命演化館通道" latitude="" description="" author="" comment="" source="" customnodeid="" altitude="42.61" info="" tags="左鎮化石園區 360"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="1" enabled="1" width="180" background="1" textcolor="0x000000" height="20" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" textalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-315.11" skinid="Hotspot 1" url="{node23}" title="往生命演化館通道" target="169.2/-16.9/70.0" id="Point01" description="" tilt="-11.99"/>
+      <hotspot pan="-48.32" skinid="Hotspot 1" url="{node25}" title="生命演化館入口" target="-14.8/-4.0/70.0" id="Point02" description="" tilt="-1.34"/>
+    </hotspots>
+    <media>
+      <sound level="1.000" url="media/skin_snd_Dinosaur - Neera Rescues the Orphans.mp3" keep="1" id="Dinosaur - Neera Rescues the Orphans" loop="-1" mode="0"/>
+    </media>
+    <transition enabled="1" softedge="0" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomfov="20" blendcolor="0x000000" zoomin="0" zoomout="0" zoomspeed="2"/>
+    <autorotate delay="2.00" nodefilter="" enabled="1" noderandom="1" returntohorizon="0.000" nodedelay="0.00" startloaded="0" useanimation="0" speed="0.100"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextprojections="0" lockedkeyboard="0" speedwheel="1" contextfullscreen="1" lockedwheel="0" invertcontrol="1" simulatemass="1" rubberband="0" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8" invertwheel="0"/>
+  </panorama>
+  <panorama id="node25">
+    <input levelingpitch="0" width="1344" levelbiashidpi="1.000" height="1344" leveltileurl="tiles/node25/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata nodeid="node25" copyright="" longitude="" datetime="2025/4/6 上午 10:45" heading="0" title="生命演化館入口" latitude="" description="" author="" comment="" source="" customnodeid="" altitude="42.64" info="" tags="生命演化館"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="1" enabled="1" width="180" background="1" textcolor="0x000000" height="20" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" textalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-110.45" skinid="Hotspot 1" url="{node24}" title="往生命演化館通道" target="139.0/5.7/70.0" id="Point01" description="" tilt="-5.54"/>
+      <hotspot pan="-7.47" skinid="Hotspot 1" url="{node26}" title="生命演化館-暢遊古海洋&#xa;" target="176.4/-1.4/70.0" id="Point02" description="" tilt="-6.75"/>
+    </hotspots>
+    <media>
+      <sound level="1.000" url="media/skin_snd_Dinosaur - Neera Rescues the Orphans.mp3" keep="1" id="Dinosaur - Neera Rescues the Orphans" loop="-1" mode="0"/>
+    </media>
+    <transition enabled="1" softedge="0" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomfov="20" blendcolor="0x000000" zoomin="0" zoomout="0" zoomspeed="2"/>
+    <autorotate delay="2.00" nodefilter="" enabled="1" noderandom="1" returntohorizon="0.000" nodedelay="0.00" startloaded="0" useanimation="0" speed="0.100"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextprojections="0" lockedkeyboard="0" speedwheel="1" contextfullscreen="1" lockedwheel="0" invertcontrol="1" simulatemass="1" rubberband="0" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8" invertwheel="0"/>
+  </panorama>
+  <panorama id="node26">
+    <input levelingpitch="0" width="1344" levelbiashidpi="1.000" height="1344" leveltileurl="tiles/node26/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata nodeid="node26" copyright="" longitude="" datetime="2025/4/6 上午 10:45" heading="0" title="生命演化館-暢遊古海洋&#xa;" latitude="" description="" author="" comment="" source="" customnodeid="" altitude="43.17" info="" tags="生命演化館"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="1" enabled="1" width="180" background="1" textcolor="0x000000" height="20" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" textalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-2.8" skinid="Hotspot 1" url="{node25}" title="生命演化館入口" target="-150.4/-4.7/70.0" id="Point01" description="" tilt="-0.81"/>
+      <hotspot pan="-95.26" skinid="Hotspot 1" url="{node27}" title="搶灘戰" target="-94.4/-10.9/70.0" id="Point02" description="" tilt="-7.12"/>
+      <hotspot pan="-164.99" skinid="ht_image" url="images/3-1-Photoroom.png" title="" target="" id="Point03" description="" tilt="5.86"/>
+    </hotspots>
+    <media>
+      <video loop="0" startmutedmobile="0" id="Element01" ambientlevel="1.000" pansize="10.000" height="720" width="1280" roty="-32.000" clickmode="2" field="90.000" mode="3" fov="61.050" nodechangekeep="0" handcursor="1" rotz="5.000" tiltsize="10.000" stretch="1.000" level="1.000" rotx="10.000" pan="-213.870" tilt="10.130">
+        <source url="media/3-1.mp4"/>
+      </video>
+      <sound level="1.000" url="media/skin_snd_Dinosaur - Neera Rescues the Orphans.mp3" keep="1" id="Dinosaur - Neera Rescues the Orphans" loop="-1" mode="0"/>
+    </media>
+    <transition enabled="1" softedge="0" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomfov="20" blendcolor="0x000000" zoomin="0" zoomout="0" zoomspeed="2"/>
+    <autorotate delay="2.00" nodefilter="" enabled="1" noderandom="1" returntohorizon="0.000" nodedelay="0.00" startloaded="0" useanimation="0" speed="0.100"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextprojections="0" lockedkeyboard="0" speedwheel="1" contextfullscreen="1" lockedwheel="0" invertcontrol="1" simulatemass="1" rubberband="0" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8" invertwheel="0"/>
+  </panorama>
+  <panorama id="node27">
+    <input levelingpitch="0" width="1344" levelbiashidpi="1.000" height="1344" leveltileurl="tiles/node27/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata nodeid="node27" copyright="" longitude="" datetime="2025/4/6 上午 10:46" heading="0" title="搶灘戰" latitude="" description="" author="" comment="" source="" customnodeid="" altitude="43.85" info="" tags="生命演化館"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="1" enabled="1" width="180" background="1" textcolor="0x000000" height="20" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" textalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-269.5" skinid="Hotspot 1" url="{node26}" title="生命演化館-暢遊古海洋&#xa;" target="85.9/0.3/70.0" id="Point01" description="" tilt="-4.87"/>
+      <hotspot pan="-93.71" skinid="Hotspot 1" url="{node28}" title="放大森林" target="158.8/-9.4/70.0" id="Point02" description="" tilt="-10.19"/>
+      <hotspot pan="-131.62" skinid="ht_image" url="images/3-2-Photoroom.png" title="" target="" id="Point03" description="" tilt="-8.64"/>
+    </hotspots>
+    <media>
+      <video loop="0" startmutedmobile="0" id="Element01" ambientlevel="1.000" pansize="10.000" height="720" width="1280" roty="21.000" clickmode="2" field="90.000" mode="3" fov="34.160" nodechangekeep="0" handcursor="1" rotz="0.000" tiltsize="10.000" stretch="1.000" level="1.000" rotx="6.000" pan="-148.110" tilt="1.530">
+        <source url="media/3-2.mp4"/>
+      </video>
+      <sound level="1.000" url="media/skin_snd_Dinosaur - Neera Rescues the Orphans.mp3" keep="1" id="Dinosaur - Neera Rescues the Orphans" loop="-1" mode="0"/>
+    </media>
+    <transition enabled="1" softedge="0" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomfov="20" blendcolor="0x000000" zoomin="0" zoomout="0" zoomspeed="2"/>
+    <autorotate delay="2.00" nodefilter="" enabled="1" noderandom="1" returntohorizon="0.000" nodedelay="0.00" startloaded="0" useanimation="0" speed="0.100"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextprojections="0" lockedkeyboard="0" speedwheel="1" contextfullscreen="1" lockedwheel="0" invertcontrol="1" simulatemass="1" rubberband="0" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8" invertwheel="0"/>
+  </panorama>
+  <panorama id="node28">
+    <input levelingpitch="0" width="1344" levelbiashidpi="1.000" height="1344" leveltileurl="tiles/node28/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata nodeid="node28" copyright="" longitude="" datetime="2025/4/6 上午 10:46" heading="0" title="放大森林" latitude="" description="" author="" comment="" source="" customnodeid="" altitude="43.85" info="" tags="生命演化館"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="1" enabled="1" width="180" background="1" textcolor="0x000000" height="20" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" textalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-15.17" skinid="Hotspot 1" url="{node27}" title="搶灘戰" target="94.1/-11.3/70.0" id="Point01" description="" tilt="-5.1"/>
+      <hotspot pan="-107.56" skinid="Hotspot 1" url="{node29}" title="恐龍時代" target="151.8/5.2/70.0" id="Point02" description="" tilt="-7.64"/>
+      <hotspot pan="-186.56" skinid="ht_image" url="images/3-3-Photoroom.png" title="" target="" id="Point03" description="" tilt="8.35"/>
+    </hotspots>
+    <media>
+      <sound level="1.000" url="media/skin_snd_Dinosaur - Neera Rescues the Orphans.mp3" keep="1" id="Dinosaur - Neera Rescues the Orphans" loop="-1" mode="0"/>
+    </media>
+    <transition enabled="1" softedge="0" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomfov="20" blendcolor="0x000000" zoomin="0" zoomout="0" zoomspeed="2"/>
+    <autorotate delay="2.00" nodefilter="" enabled="1" noderandom="1" returntohorizon="0.000" nodedelay="0.00" startloaded="0" useanimation="0" speed="0.100"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextprojections="0" lockedkeyboard="0" speedwheel="1" contextfullscreen="1" lockedwheel="0" invertcontrol="1" simulatemass="1" rubberband="0" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8" invertwheel="0"/>
+  </panorama>
+  <panorama id="node29">
+    <input levelingpitch="0" width="1344" levelbiashidpi="1.000" height="1344" leveltileurl="tiles/node29/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata nodeid="node29" copyright="" longitude="" datetime="2025/4/6 上午 10:48" heading="0" title="恐龍時代" latitude="" description="" author="" comment="" source="" customnodeid="" altitude="43.56" info="" tags="生命演化館"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="1" enabled="1" width="180" background="1" textcolor="0x000000" height="20" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" textalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-30.1" skinid="Hotspot 1" url="{node28}" title="放大森林" target="71.1/4.9/70.0" id="Point01" description="" tilt="-1.4"/>
+      <hotspot pan="-124.29" skinid="Hotspot 1" url="{node30}" title="進化的天空" target="-143.5/-8.6/70.0" id="Point02" description="" tilt="-10.03"/>
+    </hotspots>
+    <media>
+      <sound level="1.000" url="media/skin_snd_Dinosaur - Neera Rescues the Orphans.mp3" keep="1" id="Dinosaur - Neera Rescues the Orphans" loop="-1" mode="0"/>
+    </media>
+    <transition enabled="1" softedge="0" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomfov="20" blendcolor="0x000000" zoomin="0" zoomout="0" zoomspeed="2"/>
+    <autorotate delay="2.00" nodefilter="" enabled="1" noderandom="1" returntohorizon="0.000" nodedelay="0.00" startloaded="0" useanimation="0" speed="0.100"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextprojections="0" lockedkeyboard="0" speedwheel="1" contextfullscreen="1" lockedwheel="0" invertcontrol="1" simulatemass="1" rubberband="0" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8" invertwheel="0"/>
+  </panorama>
+  <panorama id="node30">
+    <input levelingpitch="0" width="1344" levelbiashidpi="1.000" height="1344" leveltileurl="tiles/node30/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata nodeid="node30" copyright="" longitude="" datetime="2025/4/6 上午 10:48" heading="0" title="進化的天空" latitude="" description="" author="" comment="" source="" customnodeid="" altitude="43.56" info="" tags="生命演化館"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="1" enabled="1" width="180" background="1" textcolor="0x000000" height="20" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" textalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-320.33" skinid="Hotspot 1" url="{node29}" title="恐龍時代" target="64.6/-7.2/70.0" id="Point01" description="" tilt="-7.62"/>
+      <hotspot pan="-145.99" skinid="Hotspot 1" url="{node31}" title="恐龍時代" target="167.8/-15.6/70.0" id="Point02" description="" tilt="-11.56"/>
+      <hotspot pan="-218.34" skinid="ht_image" url="images/3-4-Photoroom.png" title="" target="" id="Point03" description="" tilt="23.83"/>
+    </hotspots>
+    <media>
+      <video loop="1" startmutedmobile="0" id="Element01" ambientlevel="0.000" pansize="10.000" height="720" width="1280" roty="0.000" clickmode="0" field="90.000" mode="3" fov="37.804" nodechangekeep="0" handcursor="0" rotz="0.000" tiltsize="10.000" stretch="1.000" level="1.000" rotx="-19.000" pan="-38.950" tilt="-34.180">
+        <source url="media/3-5 mp4.mp4"/>
+      </video>
+      <sound level="1.000" url="media/skin_snd_Dinosaur - Neera Rescues the Orphans.mp3" keep="1" id="Dinosaur - Neera Rescues the Orphans" loop="-1" mode="0"/>
+    </media>
+    <transition enabled="1" softedge="0" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomfov="20" blendcolor="0x000000" zoomin="0" zoomout="0" zoomspeed="2"/>
+    <autorotate delay="2.00" nodefilter="" enabled="1" noderandom="1" returntohorizon="0.000" nodedelay="0.00" startloaded="0" useanimation="0" speed="0.100"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextprojections="0" lockedkeyboard="0" speedwheel="1" contextfullscreen="1" lockedwheel="0" invertcontrol="1" simulatemass="1" rubberband="0" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8" invertwheel="0"/>
+  </panorama>
+  <panorama id="node31">
+    <input levelingpitch="0" width="1344" levelbiashidpi="1.000" height="1344" leveltileurl="tiles/node31/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata nodeid="node31" copyright="" longitude="" datetime="2025/4/6 上午 10:49" heading="0" title="恐龍時代" latitude="" description="" author="" comment="" source="" customnodeid="" altitude="43.56" info="" tags="生命演化館"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="1" enabled="1" width="180" background="1" textcolor="0x000000" height="20" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" textalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-13.51" skinid="Hotspot 1" url="{node30}" title="進化的天空" target="38.1/-5.8/70.0" id="Point01" description="" tilt="-6.53"/>
+      <hotspot pan="-104.64" skinid="Hotspot 1" url="{node32}" title="冰河時期" target="-167.4/-16.1/70.0" id="Point02" description="" tilt="-10.81"/>
+    </hotspots>
+    <media>
+      <sound level="1.000" url="media/skin_snd_Dinosaur - Neera Rescues the Orphans.mp3" keep="1" id="Dinosaur - Neera Rescues the Orphans" loop="-1" mode="0"/>
+    </media>
+    <transition enabled="1" softedge="0" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomfov="20" blendcolor="0x000000" zoomin="0" zoomout="0" zoomspeed="2"/>
+    <autorotate delay="2.00" nodefilter="" enabled="1" noderandom="1" returntohorizon="0.000" nodedelay="0.00" startloaded="0" useanimation="0" speed="0.100"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextprojections="0" lockedkeyboard="0" speedwheel="1" contextfullscreen="1" lockedwheel="0" invertcontrol="1" simulatemass="1" rubberband="0" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8" invertwheel="0"/>
+  </panorama>
+  <panorama id="node32">
+    <input levelingpitch="0" width="1344" levelbiashidpi="1.000" height="1344" leveltileurl="tiles/node32/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata nodeid="node32" copyright="" longitude="" datetime="2025/4/6 上午 10:49" heading="0" title="冰河時期" latitude="" description="" author="" comment="" source="" customnodeid="" altitude="43.56" info="" tags="生命演化館"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="1" enabled="1" width="180" background="1" textcolor="0x000000" height="20" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" textalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-335.96" skinid="Hotspot 1" url="{node31}" title="恐龍時代" target="78.1/-5.9/70.0" id="Point01" description="" tilt="-0.92"/>
+      <hotspot pan="-29.05" skinid="Hotspot 1" url="{node33}" title="王者再現" target="" id="Point02" description="" tilt="-10.11"/>
+      <hotspot pan="-72.62" skinid="Hotspot 1" url="{node35}" title="人類新世紀" target="71.2/-5.9/70.0" id="Point03" description="" tilt="-9.01"/>
+      <hotspot pan="-188.46" skinid="ht_image" url="images/3-6-Photoroom.png" title="" target="" id="Point04" description="" tilt="-4.44"/>
+    </hotspots>
+    <media>
+      <sound level="1.000" url="media/skin_snd_Dinosaur - Neera Rescues the Orphans.mp3" keep="1" id="Dinosaur - Neera Rescues the Orphans" loop="-1" mode="0"/>
+    </media>
+    <transition enabled="1" softedge="0" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomfov="20" blendcolor="0x000000" zoomin="0" zoomout="0" zoomspeed="2"/>
+    <autorotate delay="2.00" nodefilter="" enabled="1" noderandom="1" returntohorizon="0.000" nodedelay="0.00" startloaded="0" useanimation="0" speed="0.100"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextprojections="0" lockedkeyboard="0" speedwheel="1" contextfullscreen="1" lockedwheel="0" invertcontrol="1" simulatemass="1" rubberband="0" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8" invertwheel="0"/>
+  </panorama>
+  <panorama id="node33">
+    <input levelingpitch="0" width="1344" levelbiashidpi="1.000" height="1344" leveltileurl="tiles/node33/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata nodeid="node33" copyright="" longitude="" datetime="2025/4/6 上午 10:50" heading="0" title="王者再現" latitude="" description="" author="" comment="" source="" customnodeid="" altitude="41.44" info="" tags="生命演化館"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="1" enabled="1" width="180" background="1" textcolor="0x000000" height="20" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" textalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-12.28" skinid="Hotspot 1" url="{node34}" title="滅絕事件" target="58.8/-16.5/70.0" id="Point01" description="" tilt="-20.53"/>
+      <hotspot pan="-46.16" skinid="Hotspot 1" url="{node35}" title="人類新世紀" target="71.6/-6.9/70.0" id="Point02" description="" tilt="-20.75"/>
+      <hotspot pan="-155.55" skinid="Hotspot 1" url="{node32}" title="冰河時期" target="" id="Point03" description="" tilt="-15.3"/>
+      <hotspot pan="-320.08" skinid="ht_image" url="images/3-7-Photoroom.png" title="" target="" id="Point04" description="" tilt="-22.82"/>
+    </hotspots>
+    <media>
+      <sound level="1.000" url="media/skin_snd_Dinosaur - Neera Rescues the Orphans.mp3" keep="1" id="Dinosaur - Neera Rescues the Orphans" loop="-1" mode="0"/>
+    </media>
+    <transition enabled="1" softedge="0" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomfov="20" blendcolor="0x000000" zoomin="0" zoomout="0" zoomspeed="2"/>
+    <autorotate delay="2.00" nodefilter="" enabled="1" noderandom="1" returntohorizon="0.000" nodedelay="0.00" startloaded="0" useanimation="0" speed="0.100"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextprojections="0" lockedkeyboard="0" speedwheel="1" contextfullscreen="1" lockedwheel="0" invertcontrol="1" simulatemass="1" rubberband="0" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8" invertwheel="0"/>
+  </panorama>
+  <panorama id="node34">
+    <input levelingpitch="0" width="1344" levelbiashidpi="1.000" height="1344" leveltileurl="tiles/node34/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata nodeid="node34" copyright="" longitude="" datetime="2025/4/6 上午 10:50" heading="0" title="滅絕事件" latitude="" description="" author="" comment="" source="" customnodeid="" altitude="40.02" info="" tags="生命演化館"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="1" enabled="1" width="180" background="1" textcolor="0x000000" height="20" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" textalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-107.39" skinid="Hotspot 1" url="{node33}" title="王者再現" target="155.3/-13.5/70.0" id="Point01" description="" tilt="-21.74"/>
+      <hotspot pan="-299.31" skinid="ht_info" url="" title="" target="" id="Point02" description="地球歴史上有五大生物滅絕事件&#xa;1.奧陶紀-志留紀生物大滅絕：4.43億年前2.晚泥盆世大滅絕：3.59億年前&#xa;3.二叠紀生物大滅絕：2.48億年前&#xa;4.三疊紀- 侏羅紀的生物大滅絕：2億年前&#xa;5.白堊紀 -第三紀生物大滅絕 6500萬年前" tilt="-6.36"/>
+    </hotspots>
+    <media>
+      <sound level="1.000" url="media/skin_snd_Dinosaur - Neera Rescues the Orphans.mp3" keep="1" id="Dinosaur - Neera Rescues the Orphans" loop="-1" mode="0"/>
+    </media>
+    <transition enabled="1" softedge="0" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomfov="20" blendcolor="0x000000" zoomin="0" zoomout="0" zoomspeed="2"/>
+    <autorotate delay="2.00" nodefilter="" enabled="1" noderandom="1" returntohorizon="0.000" nodedelay="0.00" startloaded="0" useanimation="0" speed="0.100"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextprojections="0" lockedkeyboard="0" speedwheel="1" contextfullscreen="1" lockedwheel="0" invertcontrol="1" simulatemass="1" rubberband="0" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8" invertwheel="0"/>
+  </panorama>
+  <panorama id="node35">
+    <input levelingpitch="0" width="1344" levelbiashidpi="1.000" height="1344" leveltileurl="tiles/node35/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata nodeid="node35" copyright="" longitude="" datetime="2025/4/6 上午 10:51" heading="0" title="人類新世紀" latitude="" description="" author="" comment="" source="" customnodeid="" altitude="39.39" info="" tags="生命演化館"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="1" enabled="1" width="180" background="1" textcolor="0x000000" height="20" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" textalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-131.24" skinid="Hotspot 1" url="{node32}" title="冰河時期" target="139.9/-18.9/70.0" id="Point01" description="" tilt="-19.63"/>
+      <hotspot pan="-289.17" skinid="Hotspot 1" url="{node36}" title="往化石館" target="-134.6/-7.0/70.0" id="Point02" description="" tilt="-5.71"/>
+      <hotspot pan="-191.56" skinid="ht_image" url="images/3-8-Photoroom.png" title="" target="" id="Point03" description="" tilt="-6.55"/>
+    </hotspots>
+    <media>
+      <sound level="1.000" url="media/skin_snd_Dinosaur - Neera Rescues the Orphans.mp3" keep="1" id="Dinosaur - Neera Rescues the Orphans" loop="-1" mode="0"/>
+    </media>
+    <transition enabled="1" softedge="0" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomfov="20" blendcolor="0x000000" zoomin="0" zoomout="0" zoomspeed="2"/>
+    <autorotate delay="2.00" nodefilter="" enabled="1" noderandom="1" returntohorizon="0.000" nodedelay="0.00" startloaded="0" useanimation="0" speed="0.100"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextprojections="0" lockedkeyboard="0" speedwheel="1" contextfullscreen="1" lockedwheel="0" invertcontrol="1" simulatemass="1" rubberband="0" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8" invertwheel="0"/>
+  </panorama>
+  <panorama id="node36">
+    <input levelingpitch="0" width="1344" levelbiashidpi="1.000" height="1344" leveltileurl="tiles/node36/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata nodeid="node36" copyright="" longitude="" datetime="2025/4/6 上午 10:52" heading="0" title="往化石館" latitude="" description="" author="" comment="" source="" customnodeid="" altitude="41.60" info="" tags="左鎮化石園區 360"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="1" enabled="1" width="180" background="1" textcolor="0x000000" height="20" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" textalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-111.25" skinid="Hotspot 1" url="{node35}" title="人類新世紀" target="-123.8/-2.2/70.0" id="Point01" description="" tilt="-6.25"/>
+      <hotspot pan="-357.09" skinid="Hotspot 1" url="{node37}" title="化石館入口" target="-64.0/-13.6/70.0" id="Point02" description="" tilt="-1.13"/>
+    </hotspots>
+    <media>
+      <sound level="1.000" url="media/skin_snd_Dinosaur - Neera Rescues the Orphans.mp3" keep="1" id="Dinosaur - Neera Rescues the Orphans" loop="-1" mode="0"/>
+    </media>
+    <transition enabled="1" softedge="0" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomfov="20" blendcolor="0x000000" zoomin="0" zoomout="0" zoomspeed="2"/>
+    <autorotate delay="2.00" nodefilter="" enabled="1" noderandom="1" returntohorizon="0.000" nodedelay="0.00" startloaded="0" useanimation="0" speed="0.100"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextprojections="0" lockedkeyboard="0" speedwheel="1" contextfullscreen="1" lockedwheel="0" invertcontrol="1" simulatemass="1" rubberband="0" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8" invertwheel="0"/>
+  </panorama>
+  <panorama id="node37">
+    <input levelingpitch="0" width="1344" levelbiashidpi="1.000" height="1344" leveltileurl="tiles/node37/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata nodeid="node37" copyright="" longitude="" datetime="2025/4/6 上午 10:52" heading="0" title="化石館入口" latitude="" description="" author="" comment="" source="" customnodeid="" altitude="41.60" info="" tags="化石館"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="1" enabled="1" width="180" background="1" textcolor="0x000000" height="20" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" textalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-149.59" skinid="Hotspot 1" url="{node36}" title="往化石館" target="178.2/-8.8/70.0" id="Point01" description="" tilt="-6.63"/>
+      <hotspot pan="-60.38" skinid="Hotspot 1" url="{node38}" title="菜寮溪流域水中瑰寶" target="-108.9/-9.7/70.0" id="Point02" description="" tilt="-10.65"/>
+    </hotspots>
+    <media>
+      <sound level="1.000" url="media/skin_snd_Dinosaur - Neera Rescues the Orphans.mp3" keep="1" id="Dinosaur - Neera Rescues the Orphans" loop="-1" mode="0"/>
+    </media>
+    <transition enabled="1" softedge="0" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomfov="20" blendcolor="0x000000" zoomin="0" zoomout="0" zoomspeed="2"/>
+    <autorotate delay="2.00" nodefilter="" enabled="1" noderandom="1" returntohorizon="0.000" nodedelay="0.00" startloaded="0" useanimation="0" speed="0.100"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextprojections="0" lockedkeyboard="0" speedwheel="1" contextfullscreen="1" lockedwheel="0" invertcontrol="1" simulatemass="1" rubberband="0" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8" invertwheel="0"/>
+  </panorama>
+  <panorama id="node38">
+    <input levelingpitch="0" width="1344" levelbiashidpi="1.000" height="1344" leveltileurl="tiles/node38/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata nodeid="node38" copyright="" longitude="" datetime="2025/4/6 上午 10:53" heading="0" title="菜寮溪流域水中瑰寶" latitude="" description="" author="" comment="" source="" customnodeid="" altitude="41.60" info="" tags="化石館"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="1" enabled="1" width="180" background="1" textcolor="0x000000" height="20" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" textalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-294.29" skinid="Hotspot 1" url="{node37}" title="化石館入口" target="124.9/-3.9/70.0" id="Point01" description="" tilt="-3.76"/>
+      <hotspot pan="-95.09" skinid="Hotspot 1" url="{node39}" title="菜寮溪流域前世今生" target="-17.6/-24.0/70.0" id="Point02" description="" tilt="-12.2"/>
+      <hotspot pan="-18.17" skinid="ht_image" url="images/4-1-Photoroom.png" title="" target="" id="Point03" description="" tilt="-15.81"/>
+    </hotspots>
+    <media>
+      <sound level="1.000" url="media/skin_snd_Dinosaur - Neera Rescues the Orphans.mp3" keep="1" id="Dinosaur - Neera Rescues the Orphans" loop="-1" mode="0"/>
+    </media>
+    <transition enabled="1" softedge="0" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomfov="20" blendcolor="0x000000" zoomin="0" zoomout="0" zoomspeed="2"/>
+    <autorotate delay="2.00" nodefilter="" enabled="1" noderandom="1" returntohorizon="0.000" nodedelay="0.00" startloaded="0" useanimation="0" speed="0.100"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextprojections="0" lockedkeyboard="0" speedwheel="1" contextfullscreen="1" lockedwheel="0" invertcontrol="1" simulatemass="1" rubberband="0" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8" invertwheel="0"/>
+  </panorama>
+  <panorama id="node39">
+    <input levelingpitch="0" width="1344" levelbiashidpi="1.000" height="1344" leveltileurl="tiles/node39/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata nodeid="node39" copyright="" longitude="" datetime="2025/4/6 上午 10:54" heading="0" title="菜寮溪流域前世今生" latitude="" description="" author="" comment="" source="" customnodeid="" altitude="41.60" info="" tags="化石館"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="1" enabled="1" width="180" background="1" textcolor="0x000000" height="20" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" textalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-72.38" skinid="Hotspot 1" url="{node38}" title="菜寮溪流域水中瑰寶" target="98.7/-10.6/70.0" id="Point01" description="" tilt="-14.99"/>
+      <hotspot pan="-173.8" skinid="Hotspot 1" url="{node40}" title="菜寮溪流域生物群" target="104.5/-0.7/70.0" id="Point02" description="" tilt="-6.12"/>
+    </hotspots>
+    <media>
+      <sound level="1.000" url="media/skin_snd_Dinosaur - Neera Rescues the Orphans.mp3" keep="1" id="Dinosaur - Neera Rescues the Orphans" loop="-1" mode="0"/>
+    </media>
+    <transition enabled="1" softedge="0" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomfov="20" blendcolor="0x000000" zoomin="0" zoomout="0" zoomspeed="2"/>
+    <autorotate delay="2.00" nodefilter="" enabled="1" noderandom="1" returntohorizon="0.000" nodedelay="0.00" startloaded="0" useanimation="0" speed="0.100"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextprojections="0" lockedkeyboard="0" speedwheel="1" contextfullscreen="1" lockedwheel="0" invertcontrol="1" simulatemass="1" rubberband="0" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8" invertwheel="0"/>
+  </panorama>
+  <panorama id="node40">
+    <input levelingpitch="0" width="1344" levelbiashidpi="1.000" height="1344" leveltileurl="tiles/node40/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata nodeid="node40" copyright="" longitude="" datetime="2025/4/6 上午 10:55" heading="0" title="菜寮溪流域生物群" latitude="" description="" author="" comment="" source="" customnodeid="" altitude="41.60" info="" tags="化石館"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="1" enabled="1" width="180" background="1" textcolor="0x000000" height="20" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" textalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-93.94" skinid="Hotspot 1" url="{node39}" title="菜寮溪流域前世今生" target="-20.7/-17.4/70.0" id="Point01" description="" tilt="-12.92"/>
+      <hotspot pan="-156.9" skinid="Hotspot 1" url="{node41}" title="海洋世界" target="53.3/2.8/91.9" id="Point02" description="" tilt="-1.76"/>
+    </hotspots>
+    <media>
+      <sound level="1.000" url="media/skin_snd_Dinosaur - Neera Rescues the Orphans.mp3" keep="1" id="Dinosaur - Neera Rescues the Orphans" loop="-1" mode="0"/>
+    </media>
+    <transition enabled="1" softedge="0" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomfov="20" blendcolor="0x000000" zoomin="0" zoomout="0" zoomspeed="2"/>
+    <autorotate delay="2.00" nodefilter="" enabled="1" noderandom="1" returntohorizon="0.000" nodedelay="0.00" startloaded="0" useanimation="0" speed="0.100"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextprojections="0" lockedkeyboard="0" speedwheel="1" contextfullscreen="1" lockedwheel="0" invertcontrol="1" simulatemass="1" rubberband="0" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8" invertwheel="0"/>
+  </panorama>
+  <panorama id="node41">
+    <input levelingpitch="0" width="1344" levelbiashidpi="1.000" height="1344" leveltileurl="tiles/node41/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata nodeid="node41" copyright="" longitude="" datetime="2025/4/6 上午 10:56" heading="0" title="海洋世界" latitude="" description="" author="" comment="" source="" customnodeid="" altitude="41.60" info="" tags="化石館"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="1" enabled="1" width="180" background="1" textcolor="0x000000" height="20" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" textalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-139.7" skinid="Hotspot 1" url="{node40}" title="菜寮溪流域生物群" target="-123.0/-6.3/70.0" id="Point01" description="" tilt="-15.37"/>
+      <hotspot pan="-107.96" skinid="Hotspot 1" url="{node42}" title="爬行動物" target="-3.5/-0.1/70.0" id="Point02" description="" tilt="-1.72"/>
+      <hotspot pan="-49.04" skinid="ht_image" url="images/4-2-Photoroom.png" title="" target="" id="Point03" description="" tilt="8.34"/>
+    </hotspots>
+    <media>
+      <sound level="1.000" url="media/skin_snd_Dinosaur - Neera Rescues the Orphans.mp3" keep="1" id="Dinosaur - Neera Rescues the Orphans" loop="-1" mode="0"/>
+    </media>
+    <transition enabled="1" softedge="0" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomfov="20" blendcolor="0x000000" zoomin="0" zoomout="0" zoomspeed="2"/>
+    <autorotate delay="2.00" nodefilter="" enabled="1" noderandom="1" returntohorizon="0.000" nodedelay="0.00" startloaded="0" useanimation="0" speed="0.100"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextprojections="0" lockedkeyboard="0" speedwheel="1" contextfullscreen="1" lockedwheel="0" invertcontrol="1" simulatemass="1" rubberband="0" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8" invertwheel="0"/>
+  </panorama>
+  <panorama id="node42">
+    <input levelingpitch="0" width="1344" levelbiashidpi="1.000" height="1344" leveltileurl="tiles/node42/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata nodeid="node42" copyright="" longitude="" datetime="2025/4/6 上午 10:57" heading="0" title="爬行動物" latitude="" description="" author="" comment="" source="" customnodeid="" altitude="41.60" info="" tags="化石館"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="1" enabled="1" width="180" background="1" textcolor="0x000000" height="20" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" textalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-183.09" skinid="Hotspot 1" url="{node41}" title="海洋世界" target="55.5/12.8/70.0" id="Point01" description="" tilt="-8.64"/>
+      <hotspot pan="-92.37" skinid="Hotspot 1" url="{node43}" title="龜鱉類" target="78.3/-5.1/70.0" id="Point02" description="" tilt="-1.75"/>
+      <hotspot pan="-41.03" skinid="ht_image" url="images/4-3-Photoroom.png" title="" target="" id="Point03" description="" tilt="19.78"/>
+    </hotspots>
+    <media>
+      <sound level="1.000" url="media/skin_snd_Dinosaur - Neera Rescues the Orphans.mp3" keep="1" id="Dinosaur - Neera Rescues the Orphans" loop="-1" mode="0"/>
+    </media>
+    <transition enabled="1" softedge="0" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomfov="20" blendcolor="0x000000" zoomin="0" zoomout="0" zoomspeed="2"/>
+    <autorotate delay="2.00" nodefilter="" enabled="1" noderandom="1" returntohorizon="0.000" nodedelay="0.00" startloaded="0" useanimation="0" speed="0.100"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextprojections="0" lockedkeyboard="0" speedwheel="1" contextfullscreen="1" lockedwheel="0" invertcontrol="1" simulatemass="1" rubberband="0" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8" invertwheel="0"/>
+  </panorama>
+  <panorama id="node43">
+    <input levelingpitch="0" width="1344" levelbiashidpi="1.000" height="1344" leveltileurl="tiles/node43/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata nodeid="node43" copyright="" longitude="" datetime="2025/4/6 上午 10:57" heading="0" title="龜鱉類" latitude="" description="" author="" comment="" source="" customnodeid="" altitude="42.51" info="" tags="化石館"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="1" enabled="1" width="180" background="1" textcolor="0x000000" height="20" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" textalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-95.75" skinid="Hotspot 1" url="{node42}" title="爬行動物" target="93.0/-7.4/70.0" id="Point01" description="" tilt="-8.2"/>
+      <hotspot pan="-3.5" skinid="Hotspot 1" url="{node44}" title="通道往奇偶快跑" target="17.7/-1.5/70.0" id="Point02" description="" tilt="-0.38"/>
+      <hotspot pan="-191.79" skinid="ht_image" url="images/4-4-Photoroom.png" title="" target="" id="Point03" description="" tilt="9.67"/>
+    </hotspots>
+    <media>
+      <sound level="1.000" url="media/skin_snd_Dinosaur - Neera Rescues the Orphans.mp3" keep="1" id="Dinosaur - Neera Rescues the Orphans" loop="-1" mode="0"/>
+    </media>
+    <transition enabled="1" softedge="0" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomfov="20" blendcolor="0x000000" zoomin="0" zoomout="0" zoomspeed="2"/>
+    <autorotate delay="2.00" nodefilter="" enabled="1" noderandom="1" returntohorizon="0.000" nodedelay="0.00" startloaded="0" useanimation="0" speed="0.100"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextprojections="0" lockedkeyboard="0" speedwheel="1" contextfullscreen="1" lockedwheel="0" invertcontrol="1" simulatemass="1" rubberband="0" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8" invertwheel="0"/>
+  </panorama>
+  <panorama id="node44">
+    <input levelingpitch="0" width="1344" levelbiashidpi="1.000" height="1344" leveltileurl="tiles/node44/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata nodeid="node44" copyright="" longitude="" datetime="2025/4/6 上午 10:58" heading="0" title="通道往奇偶快跑" latitude="" description="" author="" comment="" source="" customnodeid="" altitude="42.51" info="" tags="化石館"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="1" enabled="1" width="180" background="1" textcolor="0x000000" height="20" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" textalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-162.43" skinid="Hotspot 1" url="{node43}" title="龜鱉類" target="177.0/-16.1/70.0" id="Point01" description="" tilt="-8.56"/>
+      <hotspot pan="-71.42" skinid="Hotspot 1" url="{node45}" title="奇偶快跑" target="27.5/4.6/70.0" id="Point02" description="" tilt="-1.31"/>
+    </hotspots>
+    <media>
+      <sound level="1.000" url="media/skin_snd_Dinosaur - Neera Rescues the Orphans.mp3" keep="1" id="Dinosaur - Neera Rescues the Orphans" loop="-1" mode="0"/>
+    </media>
+    <transition enabled="1" softedge="0" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomfov="20" blendcolor="0x000000" zoomin="0" zoomout="0" zoomspeed="2"/>
+    <autorotate delay="2.00" nodefilter="" enabled="1" noderandom="1" returntohorizon="0.000" nodedelay="0.00" startloaded="0" useanimation="0" speed="0.100"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextprojections="0" lockedkeyboard="0" speedwheel="1" contextfullscreen="1" lockedwheel="0" invertcontrol="1" simulatemass="1" rubberband="0" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8" invertwheel="0"/>
+  </panorama>
+  <panorama id="node45">
+    <input levelingpitch="0" width="1344" levelbiashidpi="1.000" height="1344" leveltileurl="tiles/node45/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata nodeid="node45" copyright="" longitude="" datetime="2025/4/6 上午 11:02" heading="0" title="奇偶快跑" latitude="" description="" author="" comment="" source="" customnodeid="" altitude="42.51" info="" tags="化石館"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="1" enabled="1" width="180" background="1" textcolor="0x000000" height="20" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" textalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-159.6" skinid="Hotspot 1" url="{node44}" title="通道往奇偶快跑" target="108.9/1.8/70.0" id="Point01" description="" tilt="-7.36"/>
+      <hotspot pan="-67.85" skinid="Hotspot 1" url="{node46}" title="角色不同" target="-64.5/1.6/70.0" id="Point02" description="" tilt="-1.48"/>
+      <hotspot pan="-1.27" skinid="ht_image" url="images/4-6-Photoroom.png" title="" target="" id="Point03" description="" tilt="22.81"/>
+      <hotspot pan="-203.93" skinid="ht_image" url="images/4-7-Photoroom.png" title="" target="" id="Point04" description="" tilt="4.37"/>
+    </hotspots>
+    <media>
+      <sound level="1.000" url="media/skin_snd_Dinosaur - Neera Rescues the Orphans.mp3" keep="1" id="Dinosaur - Neera Rescues the Orphans" loop="-1" mode="0"/>
+    </media>
+    <transition enabled="1" softedge="0" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomfov="20" blendcolor="0x000000" zoomin="0" zoomout="0" zoomspeed="2"/>
+    <autorotate delay="2.00" nodefilter="" enabled="1" noderandom="1" returntohorizon="0.000" nodedelay="0.00" startloaded="0" useanimation="0" speed="0.100"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextprojections="0" lockedkeyboard="0" speedwheel="1" contextfullscreen="1" lockedwheel="0" invertcontrol="1" simulatemass="1" rubberband="0" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8" invertwheel="0"/>
+  </panorama>
+  <panorama id="node46">
+    <input levelingpitch="0" width="1344" levelbiashidpi="1.000" height="1344" leveltileurl="tiles/node46/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata nodeid="node46" copyright="" longitude="" datetime="2025/4/6 上午 11:03" heading="0" title="角色不同" latitude="" description="" author="" comment="" source="" customnodeid="" altitude="42.51" info="" tags="化石館"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="1" enabled="1" width="180" background="1" textcolor="0x000000" height="20" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" textalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-234.24" skinid="Hotspot 1" url="{node45}" title="奇偶快跑" target="118.1/-10.1/70.0" id="Point01" description="" tilt="-5.98"/>
+      <hotspot pan="-155.91" skinid="Hotspot 1" url="{node47}" title="早坂中國犀" target="-97.8/-14.5/70.0" id="Point02" description="" tilt="-10.42"/>
+      <hotspot pan="-147.67" skinid="Hotspot 1" url="{node50}" title="往探索館" target="-7.4/-10.8/70.0" id="Point03" description="" tilt="-3.2"/>
+      <hotspot pan="-298.43" skinid="ht_image" url="images/4-5-Photoroom.png" title="" target="" id="Point04" description="" tilt="1.83"/>
+    </hotspots>
+    <media>
+      <sound level="1.000" url="media/skin_snd_Dinosaur - Neera Rescues the Orphans.mp3" keep="1" id="Dinosaur - Neera Rescues the Orphans" loop="-1" mode="0"/>
+    </media>
+    <transition enabled="1" softedge="0" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomfov="20" blendcolor="0x000000" zoomin="0" zoomout="0" zoomspeed="2"/>
+    <autorotate delay="2.00" nodefilter="" enabled="1" noderandom="1" returntohorizon="0.000" nodedelay="0.00" startloaded="0" useanimation="0" speed="0.100"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextprojections="0" lockedkeyboard="0" speedwheel="1" contextfullscreen="1" lockedwheel="0" invertcontrol="1" simulatemass="1" rubberband="0" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8" invertwheel="0"/>
+  </panorama>
+  <panorama id="node47">
+    <input levelingpitch="0" width="1344" levelbiashidpi="1.000" height="1344" leveltileurl="tiles/node47/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata nodeid="node47" copyright="" longitude="" datetime="2025/4/6 上午 11:04" heading="0" title="早坂中國犀" latitude="" description="" author="" comment="" source="" customnodeid="" altitude="44.62" info="" tags="化石館"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="1" enabled="1" width="180" background="1" textcolor="0x000000" height="20" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" textalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-138.44" skinid="Hotspot 1" url="{node48}" title="早坂中國犀" target="-74.0/-7.4/70.0" id="Point01" description="" tilt="-15.33"/>
+      <hotspot pan="-67.57" skinid="Hotspot 1" url="{node49}" title="早坂中國犀" target="160.4/-7.1/70.0" id="Point02" description="" tilt="-13.33"/>
+      <hotspot pan="-317.22" skinid="Hotspot 1" url="{node50}" title="往探索館" target="-21.3/-13.5/70.0" id="Point03" description="" tilt="-17.18"/>
+      <hotspot pan="-233.13" skinid="Hotspot 1" url="{node46}" title="角色不同" target="-121.6/-4.6/70.0" id="Point04" description="" tilt="-18.67"/>
+    </hotspots>
+    <media>
+      <video loop="0" startmutedmobile="0" id="Element01" ambientlevel="1.000" pansize="10.000" height="720" width="1280" roty="3.000" clickmode="2" field="90.000" mode="3" fov="27.460" nodechangekeep="0" handcursor="1" rotz="1.000" tiltsize="10.000" stretch="1.540" level="1.000" rotx="-10.000" pan="-9.140" tilt="-12.570">
+        <source url="media/videoplayback (3).mp4"/>
+      </video>
+      <sound level="1.000" url="media/skin_snd_Dinosaur - Neera Rescues the Orphans.mp3" keep="1" id="Dinosaur - Neera Rescues the Orphans" loop="-1" mode="0"/>
+    </media>
+    <transition enabled="1" softedge="0" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomfov="20" blendcolor="0x000000" zoomin="0" zoomout="0" zoomspeed="2"/>
+    <autorotate delay="2.00" nodefilter="" enabled="1" noderandom="1" returntohorizon="0.000" nodedelay="0.00" startloaded="0" useanimation="0" speed="0.100"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextprojections="0" lockedkeyboard="0" speedwheel="1" contextfullscreen="1" lockedwheel="0" invertcontrol="1" simulatemass="1" rubberband="0" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8" invertwheel="0"/>
+  </panorama>
+  <panorama id="node48">
+    <input levelingpitch="0" width="1344" levelbiashidpi="1.000" height="1344" leveltileurl="tiles/node48/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata nodeid="node48" copyright="" longitude="" datetime="2025/4/6 上午 11:04" heading="0" title="早坂中國犀" latitude="" description="" author="" comment="" source="" customnodeid="" altitude="44.62" info="" tags="化石館"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="1" enabled="1" width="180" background="1" textcolor="0x000000" height="20" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" textalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-219.4" skinid="Hotspot 1" url="{node47}" title="早坂中國犀" target="-94.0/-9.7/70.0" id="Point01" description="" tilt="-11.27"/>
+      <hotspot pan="-285.94" skinid="Hotspot 1" url="{node49}" title="早坂中國犀" target="-153.0/-8.8/70.0" id="Point02" description="" tilt="-15.72"/>
+    </hotspots>
+    <media>
+      <sound level="1.000" url="media/skin_snd_Dinosaur - Neera Rescues the Orphans.mp3" keep="1" id="Dinosaur - Neera Rescues the Orphans" loop="-1" mode="0"/>
+    </media>
+    <transition enabled="1" softedge="0" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomfov="20" blendcolor="0x000000" zoomin="0" zoomout="0" zoomspeed="2"/>
+    <autorotate delay="2.00" nodefilter="" enabled="1" noderandom="1" returntohorizon="0.000" nodedelay="0.00" startloaded="0" useanimation="0" speed="0.100"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextprojections="0" lockedkeyboard="0" speedwheel="1" contextfullscreen="1" lockedwheel="0" invertcontrol="1" simulatemass="1" rubberband="0" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8" invertwheel="0"/>
+  </panorama>
+  <panorama id="node49">
+    <input levelingpitch="0" width="1344" levelbiashidpi="1.000" height="1344" leveltileurl="tiles/node49/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata nodeid="node49" copyright="" longitude="" datetime="2025/4/6 上午 11:05" heading="0" title="早坂中國犀" latitude="" description="" author="" comment="" source="" customnodeid="" altitude="46.93" info="" tags="化石館"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="1" enabled="1" width="180" background="1" textcolor="0x000000" height="20" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" textalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-339.15" skinid="Hotspot 1" url="{node48}" title="早坂中國犀" target="-106.1/-2.8/70.0" id="Point01" description="" tilt="-14.85"/>
+      <hotspot pan="-48.31" skinid="Hotspot 1" url="{node47}" title="早坂中國犀" target="85.0/-8.9/70.0" id="Point02" description="" tilt="-11.7"/>
+    </hotspots>
+    <media>
+      <sound level="1.000" url="media/skin_snd_Dinosaur - Neera Rescues the Orphans.mp3" keep="1" id="Dinosaur - Neera Rescues the Orphans" loop="-1" mode="0"/>
+    </media>
+    <transition enabled="1" softedge="0" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomfov="20" blendcolor="0x000000" zoomin="0" zoomout="0" zoomspeed="2"/>
+    <autorotate delay="2.00" nodefilter="" enabled="1" noderandom="1" returntohorizon="0.000" nodedelay="0.00" startloaded="0" useanimation="0" speed="0.100"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextprojections="0" lockedkeyboard="0" speedwheel="1" contextfullscreen="1" lockedwheel="0" invertcontrol="1" simulatemass="1" rubberband="0" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8" invertwheel="0"/>
+  </panorama>
+  <panorama id="node50">
+    <input levelingpitch="0" width="1344" levelbiashidpi="1.000" height="1344" leveltileurl="tiles/node50/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata nodeid="node50" copyright="" longitude="" datetime="2025/4/6 上午 11:05" heading="0" title="往探索館" latitude="" description="" author="" comment="" source="" customnodeid="" altitude="46.93" info="" tags="化石館"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="1" enabled="1" width="180" background="1" textcolor="0x000000" height="20" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" textalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-51.67" skinid="Hotspot 1" url="{node46}" title="角色不同" target="27.6/-0.6/70.0" id="Point01" description="" tilt="-6.41"/>
+      <hotspot pan="-39.53" skinid="Hotspot 1" url="{node47}" title="早坂中國犀" target="-174.7/-14.6/70.0" id="Point02" description="" tilt="-10.12"/>
+      <hotspot pan="-290.75" skinid="Hotspot 1" url="{node52}" title="探索館入口" target="-148.2/-12.0/70.0" id="Point03" description="" tilt="-16.05"/>
+    </hotspots>
+    <media>
+      <sound level="1.000" url="media/skin_snd_Dinosaur - Neera Rescues the Orphans.mp3" keep="1" id="Dinosaur - Neera Rescues the Orphans" loop="-1" mode="0"/>
+    </media>
+    <transition enabled="1" softedge="0" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomfov="20" blendcolor="0x000000" zoomin="0" zoomout="0" zoomspeed="2"/>
+    <autorotate delay="2.00" nodefilter="" enabled="1" noderandom="1" returntohorizon="0.000" nodedelay="0.00" startloaded="0" useanimation="0" speed="0.100"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextprojections="0" lockedkeyboard="0" speedwheel="1" contextfullscreen="1" lockedwheel="0" invertcontrol="1" simulatemass="1" rubberband="0" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8" invertwheel="0"/>
+  </panorama>
+  <panorama id="node52">
+    <input levelingpitch="0" width="1344" levelbiashidpi="1.000" height="1344" leveltileurl="tiles/node52/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata nodeid="node52" copyright="" longitude="" datetime="2025/4/6 上午 11:07" heading="0" title="探索館入口" latitude="" description="" author="" comment="" source="" customnodeid="" altitude="46.93" info="" tags="探索館"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="1" enabled="1" width="180" background="1" textcolor="0x000000" height="20" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" textalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-182.55" skinid="Hotspot 1" url="{node50}" title="往探索館" target="-14.0/-6.8/70.0" id="Point01" description="" tilt="-8.06"/>
+      <hotspot pan="-354.11" skinid="Hotspot 1" url="{node53}" title="化石清修室" target="147.3/-2.9/70.0" id="Point02" description="" tilt="-16.55"/>
+    </hotspots>
+    <media>
+      <sound level="1.000" url="media/skin_snd_Dinosaur - Neera Rescues the Orphans.mp3" keep="1" id="Dinosaur - Neera Rescues the Orphans" loop="-1" mode="0"/>
+    </media>
+    <transition enabled="1" softedge="0" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomfov="20" blendcolor="0x000000" zoomin="0" zoomout="0" zoomspeed="2"/>
+    <autorotate delay="2.00" nodefilter="" enabled="1" noderandom="1" returntohorizon="0.000" nodedelay="0.00" startloaded="0" useanimation="0" speed="0.100"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextprojections="0" lockedkeyboard="0" speedwheel="1" contextfullscreen="1" lockedwheel="0" invertcontrol="1" simulatemass="1" rubberband="0" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8" invertwheel="0"/>
+  </panorama>
+  <panorama id="node53">
+    <input levelingpitch="0" width="1344" levelbiashidpi="1.000" height="1344" leveltileurl="tiles/node53/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata nodeid="node53" copyright="" longitude="" datetime="2025/4/6 上午 11:07" heading="0" title="化石清修室" latitude="" description="" author="" comment="" source="" customnodeid="" altitude="46.93" info="" tags="探索館"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="1" enabled="1" width="180" background="1" textcolor="0x000000" height="20" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" textalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-299.68" skinid="Hotspot 1" url="{node54}" title="窗景休憩區" target="-164.6/-2.8/70.0" id="Point02" description="" tilt="-7.76"/>
+      <hotspot pan="-30.71" skinid="Hotspot 1" url="{node52}" title="探索館入口" target="-103.4/-5.7/70.0" id="Point01" description="" tilt="-0.81"/>
+    </hotspots>
+    <media>
+      <sound level="1.000" url="media/skin_snd_Dinosaur - Neera Rescues the Orphans.mp3" keep="1" id="Dinosaur - Neera Rescues the Orphans" loop="-1" mode="0"/>
+    </media>
+    <transition enabled="1" softedge="0" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomfov="20" blendcolor="0x000000" zoomin="0" zoomout="0" zoomspeed="2"/>
+    <autorotate delay="2.00" nodefilter="" enabled="1" noderandom="1" returntohorizon="0.000" nodedelay="0.00" startloaded="0" useanimation="0" speed="0.100"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextprojections="0" lockedkeyboard="0" speedwheel="1" contextfullscreen="1" lockedwheel="0" invertcontrol="1" simulatemass="1" rubberband="0" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8" invertwheel="0"/>
+  </panorama>
+  <panorama id="node54">
+    <input levelingpitch="0" width="1344" levelbiashidpi="1.000" height="1344" leveltileurl="tiles/node54/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata nodeid="node54" copyright="" longitude="" datetime="2025/4/6 上午 11:08" heading="0" title="窗景休憩區" latitude="" description="" author="" comment="" source="" customnodeid="" altitude="42.54" info="" tags="探索館"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="1" enabled="1" width="180" background="1" textcolor="0x000000" height="20" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" textalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-276.6" skinid="Hotspot 1" url="{node55}" title="大象樂園" target="13.3/-3.1/70.0" id="Point01" description="" tilt="-17.65"/>
+      <hotspot pan="-344.33" skinid="Hotspot 1" url="{node53}" title="化石清修室" target="-121.5/-3.6/70.0" id="Point02" description="" tilt="1.74"/>
+    </hotspots>
+    <media>
+      <sound level="1.000" url="media/skin_snd_Dinosaur - Neera Rescues the Orphans.mp3" keep="1" id="Dinosaur - Neera Rescues the Orphans" loop="-1" mode="0"/>
+    </media>
+    <transition enabled="1" softedge="0" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomfov="20" blendcolor="0x000000" zoomin="0" zoomout="0" zoomspeed="2"/>
+    <autorotate delay="2.00" nodefilter="" enabled="1" noderandom="1" returntohorizon="0.000" nodedelay="0.00" startloaded="0" useanimation="0" speed="0.100"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextprojections="0" lockedkeyboard="0" speedwheel="1" contextfullscreen="1" lockedwheel="0" invertcontrol="1" simulatemass="1" rubberband="0" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8" invertwheel="0"/>
+  </panorama>
+  <panorama id="node55">
+    <input levelingpitch="0" width="1344" levelbiashidpi="1.000" height="1344" leveltileurl="tiles/node55/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata nodeid="node55" copyright="" longitude="" datetime="2025/4/6 上午 11:09" heading="0" title="大象樂園" latitude="" description="" author="" comment="" source="" customnodeid="" altitude="46.93" info="" tags="探索館"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="1" enabled="1" width="180" background="1" textcolor="0x000000" height="20" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" textalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-303.7" skinid="Hotspot 1" url="{node54}" title="窗景休憩區" target="115.4/10.5/70.0" id="Point01" description="" tilt="-6.45"/>
+      <hotspot pan="-343.38" skinid="Hotspot 1" url="{node56}" title="大象樂園" target="-30.2/-21.6/70.0" id="Point02" description="" tilt="-8.27"/>
+    </hotspots>
+    <media>
+      <sound level="1.000" url="media/skin_snd_Dinosaur - Neera Rescues the Orphans.mp3" keep="1" id="Dinosaur - Neera Rescues the Orphans" loop="-1" mode="0"/>
+    </media>
+    <transition enabled="1" softedge="0" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomfov="20" blendcolor="0x000000" zoomin="0" zoomout="0" zoomspeed="2"/>
+    <autorotate delay="2.00" nodefilter="" enabled="1" noderandom="1" returntohorizon="0.000" nodedelay="0.00" startloaded="0" useanimation="0" speed="0.100"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextprojections="0" lockedkeyboard="0" speedwheel="1" contextfullscreen="1" lockedwheel="0" invertcontrol="1" simulatemass="1" rubberband="0" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8" invertwheel="0"/>
+  </panorama>
+  <panorama id="node56">
+    <input levelingpitch="0" width="1344" levelbiashidpi="1.000" height="1344" leveltileurl="tiles/node56/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata nodeid="node56" copyright="" longitude="" datetime="2025/4/6 上午 11:10" heading="0" title="大象樂園" latitude="" description="" author="" comment="" source="" customnodeid="" altitude="46.93" info="" tags="探索館"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="1" enabled="1" width="180" background="1" textcolor="0x000000" height="20" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" textalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-287.07" skinid="Hotspot 1" url="{node55}" title="大象樂園" target="-166.2/-14.5/70.0" id="Point01" description="" tilt="-9.44"/>
+      <hotspot pan="-179.1" skinid="Hotspot 1" url="{node57}" title="通道往QA測驗區" target="-152.2/-12.0/70.0" id="Point02" description="" tilt="-23.68"/>
+      <hotspot pan="-326.66" skinid="ht_image" url="images/5-1-Photoroom.png" title="" target="" id="Point03" description="" tilt="3.19"/>
+    </hotspots>
+    <media>
+      <sound level="1.000" url="media/skin_snd_Dinosaur - Neera Rescues the Orphans.mp3" keep="1" id="Dinosaur - Neera Rescues the Orphans" loop="-1" mode="0"/>
+    </media>
+    <transition enabled="1" softedge="0" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomfov="20" blendcolor="0x000000" zoomin="0" zoomout="0" zoomspeed="2"/>
+    <autorotate delay="2.00" nodefilter="" enabled="1" noderandom="1" returntohorizon="0.000" nodedelay="0.00" startloaded="0" useanimation="0" speed="0.100"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextprojections="0" lockedkeyboard="0" speedwheel="1" contextfullscreen="1" lockedwheel="0" invertcontrol="1" simulatemass="1" rubberband="0" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8" invertwheel="0"/>
+  </panorama>
+  <panorama id="node57">
+    <input levelingpitch="0" width="1344" levelbiashidpi="1.000" height="1344" leveltileurl="tiles/node57/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata nodeid="node57" copyright="" longitude="" datetime="2025/4/6 上午 11:11" heading="0" title="通道往QA測驗區" latitude="" description="" author="" comment="" source="" customnodeid="" altitude="46.93" info="" tags="探索館"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="1" enabled="1" width="180" background="1" textcolor="0x000000" height="20" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" textalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-185.02" skinid="Hotspot 1" url="{node56}" title="大象樂園" target="-110.3/-6.1/70.0" id="Point01" description="" tilt="-1.1"/>
+      <hotspot pan="-96.12" skinid="Hotspot 1" url="{node58}" title="QA測驗區" target="-18.3/-9.5/70.0" id="Point02" description="" tilt="-7.71"/>
+    </hotspots>
+    <media>
+      <sound level="1.000" url="media/skin_snd_Dinosaur - Neera Rescues the Orphans.mp3" keep="1" id="Dinosaur - Neera Rescues the Orphans" loop="-1" mode="0"/>
+    </media>
+    <transition enabled="1" softedge="0" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomfov="20" blendcolor="0x000000" zoomin="0" zoomout="0" zoomspeed="2"/>
+    <autorotate delay="2.00" nodefilter="" enabled="1" noderandom="1" returntohorizon="0.000" nodedelay="0.00" startloaded="0" useanimation="0" speed="0.100"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextprojections="0" lockedkeyboard="0" speedwheel="1" contextfullscreen="1" lockedwheel="0" invertcontrol="1" simulatemass="1" rubberband="0" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8" invertwheel="0"/>
+  </panorama>
+  <panorama id="node58">
+    <input levelingpitch="0" width="1344" levelbiashidpi="1.000" height="1344" leveltileurl="tiles/node58/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata nodeid="node58" copyright="" longitude="" datetime="2025/4/6 上午 11:12" heading="0" title="QA測驗區" latitude="" description="" author="" comment="" source="" customnodeid="" altitude="44.91" info="" tags="探索館"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="1" enabled="1" width="180" background="1" textcolor="0x000000" height="20" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" textalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-194.93" skinid="Hotspot 1" url="{node57}" title="通道往QA測驗區" target="167.1/-5.5/70.0" id="Point01" description="" tilt="-2.5"/>
+      <hotspot pan="-242.49" skinid="Hotspot 1" url="{node59}" title="往出口" target="-172.8/-13.4/70.0" id="Point02" description="" tilt="-10.3"/>
+    </hotspots>
+    <media>
+      <sound level="1.000" url="media/skin_snd_Dinosaur - Neera Rescues the Orphans.mp3" keep="1" id="Dinosaur - Neera Rescues the Orphans" loop="-1" mode="0"/>
+    </media>
+    <transition enabled="1" softedge="0" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomfov="20" blendcolor="0x000000" zoomin="0" zoomout="0" zoomspeed="2"/>
+    <autorotate delay="2.00" nodefilter="" enabled="1" noderandom="1" returntohorizon="0.000" nodedelay="0.00" startloaded="0" useanimation="0" speed="0.100"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextprojections="0" lockedkeyboard="0" speedwheel="1" contextfullscreen="1" lockedwheel="0" invertcontrol="1" simulatemass="1" rubberband="0" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8" invertwheel="0"/>
+  </panorama>
+  <panorama id="node59">
+    <input levelingpitch="0" width="1344" levelbiashidpi="1.000" height="1344" leveltileurl="tiles/node59/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata nodeid="node59" copyright="" longitude="" datetime="2025/4/6 上午 11:12" heading="0" title="往出口" latitude="" description="" author="" comment="" source="" customnodeid="" altitude="42.59" info="" tags="左鎮化石園區 360"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="1" enabled="1" width="180" background="1" textcolor="0x000000" height="20" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" textalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-62.62" skinid="Hotspot 1" url="{node58}" title="QA測驗區" target="99.8/-15.2/70.0" id="Point01" description="" tilt="-3.35"/>
+      <hotspot pan="-152.98" skinid="Hotspot 1" url="{node60}" title="往出口" target="174.9/-15.6/70.0" id="Point02" description="" tilt="-9.52"/>
+    </hotspots>
+    <media>
+      <sound level="1.000" url="media/skin_snd_Dinosaur - Neera Rescues the Orphans.mp3" keep="1" id="Dinosaur - Neera Rescues the Orphans" loop="-1" mode="0"/>
+    </media>
+    <transition enabled="1" softedge="0" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomfov="20" blendcolor="0x000000" zoomin="0" zoomout="0" zoomspeed="2"/>
+    <autorotate delay="2.00" nodefilter="" enabled="1" noderandom="1" returntohorizon="0.000" nodedelay="0.00" startloaded="0" useanimation="0" speed="0.100"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextprojections="0" lockedkeyboard="0" speedwheel="1" contextfullscreen="1" lockedwheel="0" invertcontrol="1" simulatemass="1" rubberband="0" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8" invertwheel="0"/>
+  </panorama>
+  <panorama id="node60">
+    <input levelingpitch="0" width="1344" levelbiashidpi="1.000" height="1344" leveltileurl="tiles/node60/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata nodeid="node60" copyright="" longitude="" datetime="2025/4/6 上午 11:13" heading="0" title="往出口" latitude="" description="" author="" comment="" source="" customnodeid="" altitude="44.91" info="" tags="左鎮化石園區 360"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="1" enabled="1" width="180" background="1" textcolor="0x000000" height="20" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" textalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-101.35" skinid="Hotspot 1" url="{node61}" title="往出口" target="79.3/-3.1/70.0" id="Point01" description="" tilt="-19.52"/>
+      <hotspot pan="-13.28" skinid="Hotspot 1" url="{node59}" title="往出口" target="19.4/-10.7/70.0" id="Point02" description="" tilt="-1.46"/>
+    </hotspots>
+    <media>
+      <sound level="1.000" url="media/skin_snd_Dinosaur - Neera Rescues the Orphans.mp3" keep="1" id="Dinosaur - Neera Rescues the Orphans" loop="-1" mode="0"/>
+    </media>
+    <transition enabled="1" softedge="0" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomfov="20" blendcolor="0x000000" zoomin="0" zoomout="0" zoomspeed="2"/>
+    <autorotate delay="2.00" nodefilter="" enabled="1" noderandom="1" returntohorizon="0.000" nodedelay="0.00" startloaded="0" useanimation="0" speed="0.100"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextprojections="0" lockedkeyboard="0" speedwheel="1" contextfullscreen="1" lockedwheel="0" invertcontrol="1" simulatemass="1" rubberband="0" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8" invertwheel="0"/>
+  </panorama>
+  <panorama id="node61">
+    <input levelingpitch="0" width="1344" levelbiashidpi="1.000" height="1344" leveltileurl="tiles/node61/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata nodeid="node61" copyright="" longitude="" datetime="2025/4/6 上午 11:14" heading="0" title="往出口" latitude="" description="" author="" comment="" source="" customnodeid="" altitude="42.56" info="" tags="左鎮化石園區 360"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="1" enabled="1" width="180" background="1" textcolor="0x000000" height="20" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" textalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-101.14" skinid="Hotspot 1" url="{node60}" title="往出口" target="75.4/-13.3/70.0" id="Point01" description="" tilt="-7.8"/>
+      <hotspot pan="-34.86" skinid="Hotspot 1" url="{node62}" title="往出口" target="" id="Point02" description="" tilt="-3.15"/>
+    </hotspots>
+    <media>
+      <sound level="1.000" url="media/skin_snd_Dinosaur - Neera Rescues the Orphans.mp3" keep="1" id="Dinosaur - Neera Rescues the Orphans" loop="-1" mode="0"/>
+    </media>
+    <transition enabled="1" softedge="0" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomfov="20" blendcolor="0x000000" zoomin="0" zoomout="0" zoomspeed="2"/>
+    <autorotate delay="2.00" nodefilter="" enabled="1" noderandom="1" returntohorizon="0.000" nodedelay="0.00" startloaded="0" useanimation="0" speed="0.100"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextprojections="0" lockedkeyboard="0" speedwheel="1" contextfullscreen="1" lockedwheel="0" invertcontrol="1" simulatemass="1" rubberband="0" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8" invertwheel="0"/>
+  </panorama>
+  <panorama id="node62">
+    <input levelingpitch="0" width="1344" levelbiashidpi="1.000" height="1344" leveltileurl="tiles/node62/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata nodeid="node62" copyright="" longitude="" datetime="2025/4/6 上午 11:22" heading="0" title="往出口" latitude="" description="" author="" comment="" source="" customnodeid="" altitude="44.91" info="" tags="左鎮化石園區 360"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="1" enabled="1" width="180" background="1" textcolor="0x000000" height="20" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" textalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-56.4" skinid="Hotspot 1" url="{node61}" title="往出口" target="-168.2/-10.2/70.0" id="Point01" description="" tilt="-5.31"/>
+      <hotspot pan="-141.15" skinid="Hotspot 1" url="{node63}" title="往出口" target="166.6/-3.2/70.0" id="Point02" description="" tilt="-7.31"/>
+    </hotspots>
+    <media>
+      <sound level="1.000" url="media/skin_snd_Dinosaur - Neera Rescues the Orphans.mp3" keep="1" id="Dinosaur - Neera Rescues the Orphans" loop="-1" mode="0"/>
+    </media>
+    <transition enabled="1" softedge="0" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomfov="20" blendcolor="0x000000" zoomin="0" zoomout="0" zoomspeed="2"/>
+    <autorotate delay="2.00" nodefilter="" enabled="1" noderandom="1" returntohorizon="0.000" nodedelay="0.00" startloaded="0" useanimation="0" speed="0.100"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextprojections="0" lockedkeyboard="0" speedwheel="1" contextfullscreen="1" lockedwheel="0" invertcontrol="1" simulatemass="1" rubberband="0" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8" invertwheel="0"/>
+  </panorama>
+  <panorama id="node63">
+    <input levelingpitch="0" width="1344" levelbiashidpi="1.000" height="1344" leveltileurl="tiles/node63/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510">
+      <level width="1344" height="1344" preload="0" predecode="0"/>
+      <level width="672" height="672" preload="0" predecode="0"/>
+      <level width="336" height="336" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata nodeid="node63" copyright="" longitude="" datetime="2025/4/6 上午 11:23" heading="0" title="往出口" latitude="" description="" author="" comment="" source="" customnodeid="" altitude="42.59" info="" tags="左鎮化石園區 360"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="1" enabled="1" width="180" background="1" textcolor="0x000000" height="20" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000" textalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-85.57" skinid="Hotspot 1" url="{node11}" title="往故事館通道" target="-9.5/-2.1/70.0" id="Point01" description="" tilt="-1.25"/>
+    </hotspots>
+    <media>
+      <sound level="1.000" url="media/skin_snd_Dinosaur - Neera Rescues the Orphans.mp3" keep="1" id="Dinosaur - Neera Rescues the Orphans" loop="-1" mode="0"/>
+    </media>
+    <transition enabled="1" softedge="0" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomfov="20" blendcolor="0x000000" zoomin="0" zoomout="0" zoomspeed="2"/>
+    <autorotate delay="2.00" nodefilter="" enabled="1" noderandom="1" returntohorizon="0.000" nodedelay="0.00" startloaded="0" useanimation="0" speed="0.100"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextprojections="0" lockedkeyboard="0" speedwheel="1" contextfullscreen="1" lockedwheel="0" invertcontrol="1" simulatemass="1" rubberband="0" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" dblclickfullscreen="0" sensitivity="8" invertwheel="0"/>
+  </panorama>
+  <masternode>
+    <userdata nodeid="master" copyright="" longitude="" datetime="" heading="0" title="" latitude="" description="" author="" comment="" source="" customnodeid="" info="" tags=""/>
+  </masternode>
+  <map mapurltemplate="http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" type="web" title="map 1 " id="Map01" mapprovider="openstreetmap" mapmaxzoom="17" mapstyle="streets"/>
+</tour>
